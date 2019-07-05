@@ -2,8 +2,8 @@ import os
 from   shutil  import copyfile
 from   pathlib import Path
 
-class Folder():
-    def __init__(self, path, config=None):
+class RemoteFolder():
+    def __init__(self, path, config):
         self._path  = Path(path)
         if not self._path.exists():
             raise NotADirectoryError("The path '{}' does not exist."\
@@ -51,3 +51,4 @@ class Folder():
             full_path = self._path.joinpath(part)
             if not full_path.exists():
                 os.mkdir(full_path)
+

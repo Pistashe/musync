@@ -1,8 +1,9 @@
+import paramiko
 import getpass
 
 class Config():
-    def __init__(self, uname="admin", ip=None, port=2222):
-        self._uname = input("Username: ")   if uname is None else uname
+    def __init__(self, uname=None, ip=None, port=None):
+        self._uname = input("Username (admin): ") if uname is None else uname
         self._ip    = ip
         while not _is_valid_ip(self._ip):
             self._ip    = input("IP address: ")
@@ -10,6 +11,11 @@ class Config():
         while not _is_valid_port(self._port):
             self._port  = input("Port: ")
         self._pwd   = getpass.getpass()
+
+        self._client = None
+        self._sftp   = None
+
+        self.connect()
 
     @property
     def uname(self):
@@ -32,6 +38,31 @@ class Config():
     def port(self, port):
         self._port = port
 
+    def connect(self):
+        self._client = paramiko.SSHClient()
+        self._client.set_missing_host_key_policy(paramiko.AutoAddPolicy())
+        self._client.connect(self._ip, port=self._port, username=self._uname,
+                             password=self._pwd)
+        self._sftp = self._client.open_sftp()
+
+    def execute(self, cmd, print_res=True):
+        if self._client is None:
+            raise ConnectionError("No SSH client configured.")
+        stdin, stdout, stderr = self._client.exec_command(cmd)
+        if print_res:
+            for line in stdout.read().splitlines():
+                print (line)
+
+    def close(self):
+        if self._sftp is not None:
+            self._sftp.close()
+        if self._client is not None:
+            self._client.close()
+
+    def __del__(self):
+        self.close()
+
+
 def _is_valid_ip(ip):
     try:
         ip = ip.split(".")
@@ -52,6 +83,3 @@ def _is_valid_port(port):
         return True
     except:
         return False
-
-if __name__ == "__main__":
-    a = Config()

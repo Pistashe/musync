@@ -5,7 +5,7 @@ import filecmp
 class Sync():
     def __init__(self, source, target, config=None, options={"remove":False,
                                                              "verbose":True,
-                                                             "confirmation":True}):
+                                                             "force":True}):
         self._config  = config
         self._source  = source
         self._target  = target
@@ -57,7 +57,7 @@ class Sync():
                 files_to_add.append(f_src)
 
         files_to_del = []
-        if self._options["remove"]:
+        if self._options["delete"]:
             for f_trg in target_files:
                 if f_trg not in source_files:
                     files_to_del.append(f_trg)
@@ -71,7 +71,7 @@ class Sync():
         print("{} files to add ({}) ; {} files to remove ({})."\
               .format(n_fta, s_fta, n_ftd, s_ftd))
 
-        go_ahead = _ask_for_confirmation(self._options["confirmation"])
+        go_ahead = _ask_for_confirmation(not self._options["force"])
         if go_ahead:
             verbose = self._options["verbose"]
             for f in files_to_add:
