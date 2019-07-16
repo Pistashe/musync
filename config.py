@@ -1,25 +1,27 @@
 import paramiko
 import getpass
 
+
 class Config():
     def __init__(self, uname=None, ip=None, port=None):
         self._uname = input("Username (admin): ") if uname is None else uname
-        self._ip    = ip
+        self._ip = ip
         while not _is_valid_ip(self._ip):
-            self._ip    = input("IP address: ")
+            self._ip = input("IP address: ")
         self._port = port
         while not _is_valid_port(self._port):
-            self._port  = input("Port: ")
-        self._pwd   = getpass.getpass()
+            self._port = input("Port: ")
+        self._pwd = getpass.getpass()
 
         self._client = None
-        self._sftp   = None
+        self._sftp = None
 
         self.connect()
 
     @property
     def uname(self):
         return self._uname
+
     @uname.setter
     def uname(self, uname):
         self._uname = uname
@@ -27,6 +29,7 @@ class Config():
     @property
     def ip(self):
         return self._ip
+
     @ip.setter
     def ip(self, ip):
         self._ip = ip
@@ -34,6 +37,7 @@ class Config():
     @property
     def port(self):
         return self._port
+
     @port.setter
     def port(self, port):
         self._port = port
@@ -52,6 +56,7 @@ class Config():
         if print_res:
             for line in stdout.read().splitlines():
                 print (line)
+
 
     def close(self):
         if self._sftp is not None:
@@ -76,6 +81,7 @@ def _is_valid_ip(ip):
     except:
         return False
 
+
 def _is_valid_port(port):
     try:
         if int(port) > 10000:
@@ -83,3 +89,7 @@ def _is_valid_port(port):
         return True
     except:
         return False
+
+if __name__ == "__main__":
+    test = Config()
+    test.execute("ls")
