@@ -1,11 +1,39 @@
 #:kivy 1.11.1
 
+<BackgroundColor@Widget>
+    background_color: 1, 1, 1, 1
+    canvas.before:
+        Color:
+            rgba: root.background_color
+        Rectangle:
+            size: self.size
+            pos: self.pos
+
+<BLabel@Label+BackgroundColor>
+    background_color: 0, 0, 0, 0
+<BFileChooserListView@FileChooserListView+BackgroundColor>
+    background_color: 0, 0, 0, 0
+
 <Musync>:
-    Label:
-        size: self.texture_size
-        text: '[b]Local[/b]'
-        markup: True
-    Label:
-        size: self.texture_size
-        text: '[b]Remote[/b]'
-        markup: True
+    GridLayout:
+        rows:2
+        
+        BLabel:
+            background_color: 0.26, 0.53, 0.96, 1
+            height: 30
+            size_hint_y: None
+            text: 'Local'
+            bold: True
+            
+        BLabel:
+            background_color: 0.26, 0.53, 0.96, 1
+            height: 30
+            size_hint_y: None
+            text: 'Remote'
+            bold: True
+
+        BFileChooserListView:
+            path: '/home/sgiorno'
+
+        BFileChooserListView:
+            path: '/home/sgiorno'
