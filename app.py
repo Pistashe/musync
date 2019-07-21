@@ -17,15 +17,14 @@ import re
 
 kivy.require("1.9.1")
 
-
-SOURCE_PATH = "/home/sgiorno/musync_env/musync/tests/environnement/source"
-TARGET_PATH = "/home/sgiorno/musync_env/musync/tests/environnement/target"
+from local_config import *
 
 def _find_text_between_patterns(text, pat1, pat2):
     return re.findall(r'{}(.*?){}'.format(pat1, pat2), text)
 
 def _parser(text):
-    print(_find_text_between_patterns(text, "cd+++++++++", "\n"))
+    print(_find_text_between_patterns(text, "cd\+\+\+\+\+\+\+\+\+ ", "\n"))
+    print(_find_text_between_patterns(text, "\<f\+\+\+\+\+\+\+\+\+ ", "\n"))
 
 # class in which we are creating the button
 class Musync(App):
@@ -36,18 +35,23 @@ class Musync(App):
         lab2 = Label(text="Remote", height=30, bold=True, size_hint_y=None)
         layout.add_widget(lab1)
         layout.add_widget(lab2)
-        ssh_client = SSHClient("sgiorno", "192.168.122.1", 22, "babibel123")
+        ssh_client = SSHClient(UNAME, IP, PORT, PWD)
         file_system_remote = FileSystemRemote(ssh_client)
         file_chooser_source = FileChooserListView(path=SOURCE_PATH)
         file_chooser_target = FileChooserListView(file_system=file_system_remote,
                                                   path=TARGET_PATH)
-        # proc = sp.Popen(["rsync", "-ain", "--del", SOURCE_PATH,
-        #          "sgiorno@192.168.122.1:{}".format(TARGET_PATH)],
-        #         stdout=sp.PIPE)
-        # text = proc.communicate()[0]
-        # text = text.decode("utf-8")
-        # print(text)
-        # _parser(text)
+        ok = " ".join(["rsync", "-ain", "--del", "-e",
+                         "'ssh -p {}'".format(PORT), SOURCE_PATH,
+                         "{}@{}:{}".format(UNAME, IP, TARGET_PATH)])
+        proc = sp.Popen(ok, shell=True, stdout=sp.PIPE)
+        # proc = sp.Popen(["rsync", "-ain", "--del", "-e",
+        #                  "'ssh -p {}'".format(PORT), SOURCE_PATH,
+        #                  "{}@{}:{}".format(UNAME, IP, TARGET_PATH)],
+                        # stdout=sp.PIPE)
+        text = proc.communicate()[0]
+        text = text.decode("utf-8")
+        print(text)
+        _parser(text)
         layout.add_widget(file_chooser_source)
         layout.add_widget(file_chooser_target)
         btn = Button(text="Push Me !",
