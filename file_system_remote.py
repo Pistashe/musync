@@ -1,5 +1,6 @@
 import kivy
-from kivy.uix.filechooser import FileSystemAbstract
+# from kivy.uix.filechooser import FileSystemAbstract
+from filechooser import FileSystemAbstract
 from os.path import basename
 
 kivy.require('1.9.2')
@@ -38,3 +39,6 @@ class FileSystemRemote(FileSystemAbstract):
             return ls_output[0] != fn
         except IndexError:
             return True
+
+    def get_icon(self, fn):
+        return 'none'

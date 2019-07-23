@@ -7,12 +7,13 @@ import pytest
 sys.path.append("./")
 
 from ssh_client import SSHClient
+from local_config import UNAME, IP, PORT, PWD
 
 DIR_PATH = os.path.abspath(os.path.dirname(__file__))
 
 @pytest.fixture
 def ssh_client():
-    return SSHClient("sgiorno", "192.168.122.1", 22, "babibel123")
+    return SSHClient(UNAME, IP, PORT, PWD)
 
 def test_execute(ssh_client):
     expected = sorted(os.listdir(DIR_PATH))

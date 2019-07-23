@@ -28,3 +28,5 @@ for folder in ["folder1"]:
         path = os.path.join(target, folder, file_name)
         with open(path, "w") as f:
             f.write("okkk")
+
+os.system("chmod -R a+rwx {}".format(root))

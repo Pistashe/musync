@@ -8,6 +8,7 @@ sys.path.append("./")
 
 from ssh_client import SSHClient
 from file_system_remote import FileSystemRemote
+from local_config import UNAME, IP, PORT, PWD
 
 DIR_PATH = os.path.abspath(os.path.dirname(__file__))
 FILE_PATH = os.path.abspath(__file__)
@@ -15,7 +16,7 @@ FILE_PATH = os.path.abspath(__file__)
 
 @pytest.fixture
 def file_system_remote():
-    ssh_client = SSHClient("sgiorno", "192.168.122.1", 22, "babibel123")
+    ssh_client = SSHClient(UNAME, IP, PORT, PWD)
     return FileSystemRemote(ssh_client)
 
 
