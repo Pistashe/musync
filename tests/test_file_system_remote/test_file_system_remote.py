@@ -7,7 +7,7 @@ import pytest
 sys.path.append("./")
 
 from ssh_client import SSHClient
-from file_system_remote import FileSystemRemote
+from widgets.file_system_remote import FileSystemRemote
 from local_config import UNAME, IP, PORT, PWD
 
 DIR_PATH = os.path.abspath(os.path.dirname(__file__))

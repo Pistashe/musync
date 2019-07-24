@@ -1,0 +1,2116 @@
+*deleting   folder2/file3
+*deleting   folder2/file2
+*deleting   folder2/file1
+*deleting   folder2/
+*deleting   folder1/file3
+*deleting   folder1/file2
+*deleting   folder1/file1
+*deleting   folder1/
+.d..tp..... ./
+cd+++++++++ 50 Cent/
+cd+++++++++ 50 Cent/Get Rich Or Die Tryin'/
+<f+++++++++ 50 Cent/Get Rich Or Die Tryin'/00 In Da Club.mp3
+cd+++++++++ ATK/
+cd+++++++++ ATK/Heptagone/
+<f+++++++++ ATK/Heptagone/02 Qu'est-ce que tu deviens.mp3
+cd+++++++++ AZ/
+cd+++++++++ AZ/S_O_S_A/
+<f+++++++++ AZ/S_O_S_A/00 SOSA.mp3
+<f+++++++++ AZ/S_O_S_A/00 Street Life.mp3
+cd+++++++++ AaRON/
+cd+++++++++ AaRON/Artificial Animals Riding On N/
+<f+++++++++ AaRON/Artificial Animals Riding On N/00 U Turn.mp3
+cd+++++++++ Aaron Smith/
+<f+++++++++ Aaron Smith/00 Dancin.mp3
+cd+++++++++ Adam Green/
+cd+++++++++ Adam Green/Adam Green & Binki Shapiro/
+<f+++++++++ Adam Green/Adam Green & Binki Shapiro/00 Don't Ask For More.mp3
+cd+++++++++ Adam Green/Garfield/
+<f+++++++++ Adam Green/Garfield/05 Dance With Me.mp3
+cd+++++++++ Adam Green/Gemstones/
+<f+++++++++ Adam Green/Gemstones/08 Emily.mp3
+cd+++++++++ Alex Beaupain/
+cd+++++++++ Alex Beaupain/Après moi le déluge/
+<f+++++++++ Alex Beaupain/Après moi le déluge/00 Aimer Pour Deux.mp3
+<f+++++++++ Alex Beaupain/Après moi le déluge/00 Après moi le déluge.mp3
+<f+++++++++ Alex Beaupain/Après moi le déluge/00 Grands Soirs.mp3
+cd+++++++++ Alt-J/
+cd+++++++++ Alt-J/An Awesome Wave/
+<f+++++++++ Alt-J/An Awesome Wave/01 Intro.mp3
+<f+++++++++ Alt-J/An Awesome Wave/02 (The Ripe & Ruin).mp3
+<f+++++++++ Alt-J/An Awesome Wave/03 Tessellate.mp3
+<f+++++++++ Alt-J/An Awesome Wave/04 Breezeblocks.mp3
+<f+++++++++ Alt-J/An Awesome Wave/05 (Guitar).mp3
+<f+++++++++ Alt-J/An Awesome Wave/06 Something Good.mp3
+<f+++++++++ Alt-J/An Awesome Wave/07 Dissolve Me.mp3
+<f+++++++++ Alt-J/An Awesome Wave/08 Matilda.mp3
+<f+++++++++ Alt-J/An Awesome Wave/09 Ms.mp3
+<f+++++++++ Alt-J/An Awesome Wave/10 Fitzpleasure.mp3
+<f+++++++++ Alt-J/An Awesome Wave/11 (Piano).mp3
+<f+++++++++ Alt-J/An Awesome Wave/12 Bloodflood.mp3
+<f+++++++++ Alt-J/An Awesome Wave/13 Taro.mp3
+<f+++++++++ Alt-J/An Awesome Wave/14 Hand-made.mp3
+cd+++++++++ Alt-J/This Is All Yours/
+<f+++++++++ Alt-J/This Is All Yours/01 Intro.mp3
+<f+++++++++ Alt-J/This Is All Yours/02 Arrival In Nara.mp3
+<f+++++++++ Alt-J/This Is All Yours/03 Nara.mp3
+<f+++++++++ Alt-J/This Is All Yours/04 Every Other Freckle.mp3
+<f+++++++++ Alt-J/This Is All Yours/05 Left Hand Free.mp3
+<f+++++++++ Alt-J/This Is All Yours/06 Garden Of England.mp3
+<f+++++++++ Alt-J/This Is All Yours/07 Choice Kingdom.mp3
+<f+++++++++ Alt-J/This Is All Yours/08 Hunger Of The Pine.mp3
+<f+++++++++ Alt-J/This Is All Yours/09 Warm Foothills.mp3
+<f+++++++++ Alt-J/This Is All Yours/10 The Gospel Of John Hurt.mp3
+<f+++++++++ Alt-J/This Is All Yours/11 Pusher.mp3
+<f+++++++++ Alt-J/This Is All Yours/12 Bloodflood Pt_ II.mp3
+<f+++++++++ Alt-J/This Is All Yours/13 Leaving Nara.mp3
+cd+++++++++ Arcade Fire/
+cd+++++++++ Arcade Fire/Funeral/
+<f+++++++++ Arcade Fire/Funeral/01 Neighborhood #1 (Tunnels).mp3
+<f+++++++++ Arcade Fire/Funeral/02 Neighborhood #2 (Laïka).mp3
+<f+++++++++ Arcade Fire/Funeral/03 Une Année Sans Lumière.mp3
+<f+++++++++ Arcade Fire/Funeral/04 Neighborhood #3 (Power Out).mp3
+<f+++++++++ Arcade Fire/Funeral/05 Neighborhood #4 (7 Kettles).mp3
+<f+++++++++ Arcade Fire/Funeral/06 Crown of Love.mp3
+<f+++++++++ Arcade Fire/Funeral/07 Wake Up.mp3
+<f+++++++++ Arcade Fire/Funeral/08 Haïti.mp3
+<f+++++++++ Arcade Fire/Funeral/09 Rebellion (Lies).mp3
+<f+++++++++ Arcade Fire/Funeral/10 In the Backseat.mp3
+<f+++++++++ Arcade Fire/Funeral/13 Brazil.mp3
+cd+++++++++ Arcade Fire/Neon Bible/
+<f+++++++++ Arcade Fire/Neon Bible/01 Black Mirror.mp3
+<f+++++++++ Arcade Fire/Neon Bible/03 Neon Bible.mp3
+<f+++++++++ Arcade Fire/Neon Bible/04 Intervention.mp3
+<f+++++++++ Arcade Fire/Neon Bible/05 Black Wave_Bad Vibrations.mp3
+<f+++++++++ Arcade Fire/Neon Bible/06 Ocean of Noise.mp3
+<f+++++++++ Arcade Fire/Neon Bible/07 The Well and the Lighthouse.mp3
+<f+++++++++ Arcade Fire/Neon Bible/08 (Antichrist Television Blues).mp3
+<f+++++++++ Arcade Fire/Neon Bible/09 Windowsill.mp3
+<f+++++++++ Arcade Fire/Neon Bible/10 No Cars Go.mp3
+<f+++++++++ Arcade Fire/Neon Bible/11 My Body Is a Cage.mp3
+cd+++++++++ Arcade Fire/Reflektor/
+<f+++++++++ Arcade Fire/Reflektor/02 Reflektor.mp3
+<f+++++++++ Arcade Fire/Reflektor/03 We Exist.mp3
+<f+++++++++ Arcade Fire/Reflektor/04 Flashbulb Eyes.mp3
+<f+++++++++ Arcade Fire/Reflektor/05 Here Comes the Night Time.mp3
+<f+++++++++ Arcade Fire/Reflektor/06 Normal Person.mp3
+<f+++++++++ Arcade Fire/Reflektor/07 You Already Know.mp3
+<f+++++++++ Arcade Fire/Reflektor/08 Joan of Arc.mp3
+<f+++++++++ Arcade Fire/Reflektor/2-01 Here Comes the Night Time II.mp3
+<f+++++++++ Arcade Fire/Reflektor/2-02 Awful Sound (Oh Eurydice).mp3
+<f+++++++++ Arcade Fire/Reflektor/2-03 It's Never Over (Oh Orpheus).mp3
+<f+++++++++ Arcade Fire/Reflektor/2-05 Afterlife.mp3
+<f+++++++++ Arcade Fire/Reflektor/2-06 Supersymmetry.mp3
+cd+++++++++ Arcade Fire/The Suburbs/
+<f+++++++++ Arcade Fire/The Suburbs/01 The Suburbs.mp3
+<f+++++++++ Arcade Fire/The Suburbs/02 Ready to Start.mp3
+<f+++++++++ Arcade Fire/The Suburbs/03 Modern Man.mp3
+<f+++++++++ Arcade Fire/The Suburbs/04 Rococo.mp3
+<f+++++++++ Arcade Fire/The Suburbs/06 City with No Children.mp3
+<f+++++++++ Arcade Fire/The Suburbs/07 Half Light I.mp3
+<f+++++++++ Arcade Fire/The Suburbs/08 Half Light II (No Celebration).mp3
+<f+++++++++ Arcade Fire/The Suburbs/09 Suburban War.mp3
+<f+++++++++ Arcade Fire/The Suburbs/11 Wasted Hours.mp3
+<f+++++++++ Arcade Fire/The Suburbs/12 Deep Blue.mp3
+<f+++++++++ Arcade Fire/The Suburbs/13 We Used to Wait.mp3
+<f+++++++++ Arcade Fire/The Suburbs/14 Sprawl I (Flatland).mp3
+<f+++++++++ Arcade Fire/The Suburbs/15 Sprawl II (Mountains Beyond Mo.mp3
+<f+++++++++ Arcade Fire/The Suburbs/16 The Suburbs _Continued_.mp3
+cd+++++++++ Arctic Monkeys/
+cd+++++++++ Arctic Monkeys/AM/
+<f+++++++++ Arctic Monkeys/AM/01 Do I Wanna Know.mp3
+<f+++++++++ Arctic Monkeys/AM/02 R U Mine.mp3
+<f+++++++++ Arctic Monkeys/AM/03 One For The Road.mp3
+<f+++++++++ Arctic Monkeys/AM/04 Arabella.mp3
+<f+++++++++ Arctic Monkeys/AM/05 I Want It All.mp3
+<f+++++++++ Arctic Monkeys/AM/06 No_1 Party Anthem.mp3
+<f+++++++++ Arctic Monkeys/AM/08 Fireside.mp3
+<f+++++++++ Arctic Monkeys/AM/09 Why'd You Only Call Me When Yo.mp3
+<f+++++++++ Arctic Monkeys/AM/10 Snap Out Of It.mp3
+<f+++++++++ Arctic Monkeys/AM/11 Knee Socks.mp3
+<f+++++++++ Arctic Monkeys/AM/12 I Wanna Be Yours.mp3
+cd+++++++++ Arctic Monkeys/Favourite Worst Nightmare/
+<f+++++++++ Arctic Monkeys/Favourite Worst Nightmare/02 Teddy Picker.mp3
+<f+++++++++ Arctic Monkeys/Favourite Worst Nightmare/03 D Is for Dangerous.mp3
+<f+++++++++ Arctic Monkeys/Favourite Worst Nightmare/04 Balaclava.mp3
+<f+++++++++ Arctic Monkeys/Favourite Worst Nightmare/05 Fluorescent Adolescent.mp3
+<f+++++++++ Arctic Monkeys/Favourite Worst Nightmare/06 Only Ones Who Know.mp3
+<f+++++++++ Arctic Monkeys/Favourite Worst Nightmare/07 Do Me a Favour.mp3
+<f+++++++++ Arctic Monkeys/Favourite Worst Nightmare/10 The Bad Thing.mp3
+<f+++++++++ Arctic Monkeys/Favourite Worst Nightmare/11 Old Yellow Bricks.mp3
+<f+++++++++ Arctic Monkeys/Favourite Worst Nightmare/12 505.mp3
+cd+++++++++ Arctic Monkeys/Fluorescent Adolescent/
+<f+++++++++ Arctic Monkeys/Fluorescent Adolescent/02 The Bakery.mp3
+cd+++++++++ Arctic Monkeys/Humbug/
+<f+++++++++ Arctic Monkeys/Humbug/01 My Propeller.mp3
+<f+++++++++ Arctic Monkeys/Humbug/02 Crying Lightning.mp3
+<f+++++++++ Arctic Monkeys/Humbug/04 Secret Door.mp3
+<f+++++++++ Arctic Monkeys/Humbug/06 Fire And The Thud.mp3
+<f+++++++++ Arctic Monkeys/Humbug/07 Cornerstone.mp3
+<f+++++++++ Arctic Monkeys/Humbug/08 Dance Little Liar.mp3
+<f+++++++++ Arctic Monkeys/Humbug/09 Pretty Visitors.mp3
+<f+++++++++ Arctic Monkeys/Humbug/10 The Jeweller's Hands.mp3
+<f+++++++++ Arctic Monkeys/Humbug/11 I Haven't Got My Strange.mp3
+<f+++++++++ Arctic Monkeys/Humbug/12 Red Right Hand.mp3
+cd+++++++++ Arctic Monkeys/Suck It And See/
+<f+++++++++ Arctic Monkeys/Suck It And See/01 She's Thunderstorms.mp3
+<f+++++++++ Arctic Monkeys/Suck It And See/02 Black Treacle.mp3
+<f+++++++++ Arctic Monkeys/Suck It And See/03 Brick By Brick.mp3
+<f+++++++++ Arctic Monkeys/Suck It And See/04 The Hellcat Spangled Shalalala.mp3
+<f+++++++++ Arctic Monkeys/Suck It And See/07 All My Own Stunts.mp3
+<f+++++++++ Arctic Monkeys/Suck It And See/08 Reckless Serenade.mp3
+<f+++++++++ Arctic Monkeys/Suck It And See/09 Piledriver Waltz.mp3
+<f+++++++++ Arctic Monkeys/Suck It And See/10 Love Is A Laserquest.mp3
+<f+++++++++ Arctic Monkeys/Suck It And See/11 Suck It And See.mp3
+<f+++++++++ Arctic Monkeys/Suck It And See/12 That's Where You're Wrong.mp3
+cd+++++++++ Arctic Monkeys/Tranquility Base Hotel & Casin/
+<f+++++++++ Arctic Monkeys/Tranquility Base Hotel & Casin/01 Star Treatment.mp3
+<f+++++++++ Arctic Monkeys/Tranquility Base Hotel & Casin/02 One Point Perspective.mp3
+<f+++++++++ Arctic Monkeys/Tranquility Base Hotel & Casin/03 American Sports.mp3
+<f+++++++++ Arctic Monkeys/Tranquility Base Hotel & Casin/04 Tranquility Base Hotel & Casin.mp3
+<f+++++++++ Arctic Monkeys/Tranquility Base Hotel & Casin/05 Golden Trunks.mp3
+<f+++++++++ Arctic Monkeys/Tranquility Base Hotel & Casin/06 Four out of Five.mp3
+<f+++++++++ Arctic Monkeys/Tranquility Base Hotel & Casin/07 The World's First Ever Monster.mp3
+<f+++++++++ Arctic Monkeys/Tranquility Base Hotel & Casin/08 Science Fiction.mp3
+<f+++++++++ Arctic Monkeys/Tranquility Base Hotel & Casin/09 She Looks Like Fun.mp3
+<f+++++++++ Arctic Monkeys/Tranquility Base Hotel & Casin/10 Batphone.mp3
+<f+++++++++ Arctic Monkeys/Tranquility Base Hotel & Casin/11 The Ultracheese.mp3
+cd+++++++++ Arctic Monkeys/Tranquility Base Hotel & Casino/
+<f+++++++++ Arctic Monkeys/Tranquility Base Hotel & Casino/01 – Star Treatment.mp3
+<f+++++++++ Arctic Monkeys/Tranquility Base Hotel & Casino/02 – One Point Perspective.mp3
+<f+++++++++ Arctic Monkeys/Tranquility Base Hotel & Casino/03 – American Sports.mp3
+<f+++++++++ Arctic Monkeys/Tranquility Base Hotel & Casino/04 – Tranquility Base Hotel & Casino.mp3
+<f+++++++++ Arctic Monkeys/Tranquility Base Hotel & Casino/05 – Golden Trunks.mp3
+<f+++++++++ Arctic Monkeys/Tranquility Base Hotel & Casino/06 – Four out of Five.mp3
+<f+++++++++ Arctic Monkeys/Tranquility Base Hotel & Casino/07 – The World’s First Ever Monster Truck Front Flip.mp3
+<f+++++++++ Arctic Monkeys/Tranquility Base Hotel & Casino/08 – Science Fiction.mp3
+<f+++++++++ Arctic Monkeys/Tranquility Base Hotel & Casino/09 – She Looks Like Fun.mp3
+<f+++++++++ Arctic Monkeys/Tranquility Base Hotel & Casino/10 – Batphone.mp3
+<f+++++++++ Arctic Monkeys/Tranquility Base Hotel & Casino/11 – The Ultracheese.mp3
+<f+++++++++ Arctic Monkeys/Tranquility Base Hotel & Casino/Cover.jpg
+cd+++++++++ Arctic Monkeys/Whatever People Say I Am_ That/
+<f+++++++++ Arctic Monkeys/Whatever People Say I Am_ That/01 The View from the Afternoon.mp3
+<f+++++++++ Arctic Monkeys/Whatever People Say I Am_ That/03 Fake Tales of San Francisco.mp3
+<f+++++++++ Arctic Monkeys/Whatever People Say I Am_ That/04 Dancing Shoes.mp3
+<f+++++++++ Arctic Monkeys/Whatever People Say I Am_ That/05 You Probably Couldn't See for.mp3
+<f+++++++++ Arctic Monkeys/Whatever People Say I Am_ That/07 Riot Van.mp3
+<f+++++++++ Arctic Monkeys/Whatever People Say I Am_ That/08 Red Light Indicates Doors Are.mp3
+<f+++++++++ Arctic Monkeys/Whatever People Say I Am_ That/09 Mardy Bum.mp3
+<f+++++++++ Arctic Monkeys/Whatever People Say I Am_ That/10 Perhaps Vampires Is a Bit Stro.mp3
+<f+++++++++ Arctic Monkeys/Whatever People Say I Am_ That/11 When the Sun Goes Down.mp3
+<f+++++++++ Arctic Monkeys/Whatever People Say I Am_ That/12 From the Ritz to the Rubble.mp3
+<f+++++++++ Arctic Monkeys/Whatever People Say I Am_ That/13 A Certain Romance.mp3
+cd+++++++++ Art Of Verse/
+cd+++++++++ Art Of Verse/Atop A Starlit Canopy/
+<f+++++++++ Art Of Verse/Atop A Starlit Canopy/06 Marvel At The Stars.mp3
+cd+++++++++ Asaf Avidan/
+cd+++++++++ Asaf Avidan/Gold Shadow/
+<f+++++++++ Asaf Avidan/Gold Shadow/01 Over My Head.mp3
+<f+++++++++ Asaf Avidan/Gold Shadow/02 Ode To My Thalamus.mp3
+<f+++++++++ Asaf Avidan/Gold Shadow/03 The Jail That Sets You Free.mp3
+<f+++++++++ Asaf Avidan/Gold Shadow/04 Little Parcels Of An Endless T.mp3
+<f+++++++++ Asaf Avidan/Gold Shadow/05 My Tunnels Are Long And Dark T.mp3
+<f+++++++++ Asaf Avidan/Gold Shadow/06 Gold Shadows.mp3
+<f+++++++++ Asaf Avidan/Gold Shadow/07 Let's Just Call It Fate.mp3
+<f+++++++++ Asaf Avidan/Gold Shadow/08 These Words You Want To Hear.mp3
+<f+++++++++ Asaf Avidan/Gold Shadow/09 A Part Of This.mp3
+<f+++++++++ Asaf Avidan/Gold Shadow/10 Bang Bang.mp3
+<f+++++++++ Asaf Avidan/Gold Shadow/11 The Labyrinth Song.mp3
+<f+++++++++ Asaf Avidan/Gold Shadow/12 Fair Haired Traveller.mp3
+cd+++++++++ Awon/
+<f+++++++++ Awon/00 Believe In Us.mp3
+<f+++++++++ Awon/00 Strictly Underground.mp3
+cd+++++++++ BB Brunes/
+cd+++++++++ BB Brunes/Blonde Comme Moi/
+<f+++++++++ BB Brunes/Blonde Comme Moi/00 Perdus cette nuit.mp3
+<f+++++++++ BB Brunes/Blonde Comme Moi/01 J'écoute les Cramps.mp3
+<f+++++++++ BB Brunes/Blonde Comme Moi/07 Mr Hyde.mp3
+<f+++++++++ BB Brunes/Blonde Comme Moi/1-11 Dis Moi.mp3
+cd+++++++++ BB Brunes/Long Courrier/
+<f+++++++++ BB Brunes/Long Courrier/01 Grande Rio.mp3
+<f+++++++++ BB Brunes/Long Courrier/02 Coups et Blessures.mp3
+<f+++++++++ BB Brunes/Long Courrier/03 Bye Bye.mp3
+<f+++++++++ BB Brunes/Long Courrier/04 Stéréo.mp3
+<f+++++++++ BB Brunes/Long Courrier/05 Hémophile.mp3
+<f+++++++++ BB Brunes/Long Courrier/06 Rue de Buci.mp3
+<f+++++++++ BB Brunes/Long Courrier/07 Long Courrier.mp3
+<f+++++++++ BB Brunes/Long Courrier/08 Lala Queen.mp3
+<f+++++++++ BB Brunes/Long Courrier/09 Aficionado.mp3
+<f+++++++++ BB Brunes/Long Courrier/10 Police Déprime.mp3
+<f+++++++++ BB Brunes/Long Courrier/11 RIP.mp3
+<f+++++++++ BB Brunes/Long Courrier/12 Au Garde à Vous.mp3
+cd+++++++++ BB Brunes/Nico Teen Love/
+<f+++++++++ BB Brunes/Nico Teen Love/00 Lalalove You.mp3
+<f+++++++++ BB Brunes/Nico Teen Love/01 Peut-Être Pas Cette Fois.mp3
+<f+++++++++ BB Brunes/Nico Teen Love/09 Britty Boy.mp3
+<f+++++++++ BB Brunes/Nico Teen Love/1-13 NIco Teen Love.mp3
+cd+++++++++ BOY/
+cd+++++++++ BOY/Mutual Friends/
+<f+++++++++ BOY/Mutual Friends/00 Drive Darling.mp3
+<f+++++++++ BOY/Mutual Friends/00 Little Numbers.mp3
+<f+++++++++ BOY/Mutual Friends/00 Skin.mp3
+cd+++++++++ Band of Horses/
+cd+++++++++ Band of Horses/Cease To Begin/
+<f+++++++++ Band of Horses/Cease To Begin/00 No One's Gonna Love You.mp3
+cd+++++++++ Band of Horses/Everything All the Time/
+<f+++++++++ Band of Horses/Everything All the Time/01 The First Song.mp3
+<f+++++++++ Band of Horses/Everything All the Time/02 Wicked Gil.mp3
+<f+++++++++ Band of Horses/Everything All the Time/03 Our Swords.mp3
+<f+++++++++ Band of Horses/Everything All the Time/04 The Funeral.mp3
+<f+++++++++ Band of Horses/Everything All the Time/05 Part One.mp3
+<f+++++++++ Band of Horses/Everything All the Time/06 The Great Salt Lake.mp3
+<f+++++++++ Band of Horses/Everything All the Time/07 Weed Party.mp3
+<f+++++++++ Band of Horses/Everything All the Time/08 I Go to the Barn Because I Lik.mp3
+<f+++++++++ Band of Horses/Everything All the Time/09 Monsters.mp3
+<f+++++++++ Band of Horses/Everything All the Time/10 St_ Augustine.mp3
+cd+++++++++ Beirut/
+<f+++++++++ Beirut/00 Elephant Gun.mp3
+<f+++++++++ Beirut/00 Postcards From Italy.mp3
+cd+++++++++ Beirut/No No No/
+<f+++++++++ Beirut/No No No/01 Gibraltar.mp3
+<f+++++++++ Beirut/No No No/02 No No No.mp3
+<f+++++++++ Beirut/No No No/03 At Once.mp3
+<f+++++++++ Beirut/No No No/04 August Holland.mp3
+<f+++++++++ Beirut/No No No/05 As Needed.mp3
+<f+++++++++ Beirut/No No No/06 Perth.mp3
+<f+++++++++ Beirut/No No No/07 Pacheco.mp3
+<f+++++++++ Beirut/No No No/08 Fener.mp3
+<f+++++++++ Beirut/No No No/09 So Allowed.mp3
+cd+++++++++ Beirut/The Flying Club Cup/
+<f+++++++++ Beirut/The Flying Club Cup/01 A Call to Arms - Musicfire_in.mp3
+<f+++++++++ Beirut/The Flying Club Cup/02 Nantes.mp3
+<f+++++++++ Beirut/The Flying Club Cup/03 A Sunday Smile.mp3
+<f+++++++++ Beirut/The Flying Club Cup/04 Guyamas Sonora.mp3
+<f+++++++++ Beirut/The Flying Club Cup/05 La Banlieue.mp3
+<f+++++++++ Beirut/The Flying Club Cup/06 Cliquot.mp3
+<f+++++++++ Beirut/The Flying Club Cup/07 The Penalty.mp3
+<f+++++++++ Beirut/The Flying Club Cup/08 Forks and Knives (La Fête).mp3
+<f+++++++++ Beirut/The Flying Club Cup/09 In the Mausoleum.mp3
+<f+++++++++ Beirut/The Flying Club Cup/10 Un Dernier Verre (Pour La Rout.mp3
+<f+++++++++ Beirut/The Flying Club Cup/11 Cherbourg.mp3
+<f+++++++++ Beirut/The Flying Club Cup/12 St_ Apollonia.mp3
+<f+++++++++ Beirut/The Flying Club Cup/13 The Flying Club Cup.mp3
+cd+++++++++ Beirut/The Rip Tide/
+<f+++++++++ Beirut/The Rip Tide/01 A Candle's Fire.mp3
+<f+++++++++ Beirut/The Rip Tide/02 Santa Fe.mp3
+<f+++++++++ Beirut/The Rip Tide/03 East Harlem.mp3
+<f+++++++++ Beirut/The Rip Tide/04 Goshen.mp3
+<f+++++++++ Beirut/The Rip Tide/05 Payne's Bay.mp3
+<f+++++++++ Beirut/The Rip Tide/06 The Rip Tide.mp3
+<f+++++++++ Beirut/The Rip Tide/07 Vagabond.mp3
+<f+++++++++ Beirut/The Rip Tide/08 The Peacock.mp3
+<f+++++++++ Beirut/The Rip Tide/09 Port of Call.mp3
+cd+++++++++ Blur/
+cd+++++++++ Blur/The Magic Whip/
+<f+++++++++ Blur/The Magic Whip/01 Lonesome Street.mp3
+<f+++++++++ Blur/The Magic Whip/02 New World Towers.mp3
+<f+++++++++ Blur/The Magic Whip/03 Go Out.mp3
+<f+++++++++ Blur/The Magic Whip/04 Ice Cream Man.mp3
+<f+++++++++ Blur/The Magic Whip/05 Thought I Was a Spaceman.mp3
+<f+++++++++ Blur/The Magic Whip/06 I Broadcast.mp3
+<f+++++++++ Blur/The Magic Whip/07 My Terracotta Heart.mp3
+<f+++++++++ Blur/The Magic Whip/08 There Are Too Many of Us.mp3
+<f+++++++++ Blur/The Magic Whip/09 Ghost Ship.mp3
+<f+++++++++ Blur/The Magic Whip/10 Pyongyang.mp3
+<f+++++++++ Blur/The Magic Whip/11 Ong Ong.mp3
+<f+++++++++ Blur/The Magic Whip/12 Mirrorball.mp3
+cd+++++++++ Breton/
+cd+++++++++ Breton/War Room Stories/
+<f+++++++++ Breton/War Room Stories/15 15 Minutes.mp3
+cd+++++++++ Caesars/
+cd+++++++++ Caesars/Paper Tigers/
+<f+++++++++ Caesars/Paper Tigers/01 Spirit.mp3
+<f+++++++++ Caesars/Paper Tigers/02 It's Not The Fall That Hurts.mp3
+<f+++++++++ Caesars/Paper Tigers/03 Out There.mp3
+<f+++++++++ Caesars/Paper Tigers/04 Jerk It Out.mp3
+<f+++++++++ Caesars/Paper Tigers/05 May The Rain.mp3
+<f+++++++++ Caesars/Paper Tigers/06 My Heart Is Breaking Down.mp3
+<f+++++++++ Caesars/Paper Tigers/07 Paper Tigers.mp3
+<f+++++++++ Caesars/Paper Tigers/08 Your Time Is Near.mp3
+<f+++++++++ Caesars/Paper Tigers/09 Throwaway.mp3
+<f+++++++++ Caesars/Paper Tigers/10 Winter Song.mp3
+<f+++++++++ Caesars/Paper Tigers/11 We Got To Leave.mp3
+<f+++++++++ Caesars/Paper Tigers/12 Soul Chaser.mp3
+<f+++++++++ Caesars/Paper Tigers/13 Good and Gone.mp3
+cd+++++++++ Cage The Elephant/
+cd+++++++++ Cage The Elephant/Cage the Elephant/
+<f+++++++++ Cage The Elephant/Cage the Elephant/01 In One Ear.mp3
+<f+++++++++ Cage The Elephant/Cage the Elephant/02 James Brown.mp3
+<f+++++++++ Cage The Elephant/Cage the Elephant/05 Lotus.mp3
+<f+++++++++ Cage The Elephant/Cage the Elephant/06 Back Against the Wall.mp3
+<f+++++++++ Cage The Elephant/Cage the Elephant/08 Judas.mp3
+<f+++++++++ Cage The Elephant/Cage the Elephant/12 Cover Me Again.mp3
+cd+++++++++ Cage The Elephant/Melophobia/
+<f+++++++++ Cage The Elephant/Melophobia/01 Spiderhead.mp3
+<f+++++++++ Cage The Elephant/Melophobia/02 Come a Little Closer.mp3
+<f+++++++++ Cage The Elephant/Melophobia/03 Telescope.mp3
+<f+++++++++ Cage The Elephant/Melophobia/04 It's Just Forever (feat_ Aliso.mp3
+<f+++++++++ Cage The Elephant/Melophobia/05 Take It or Leave It.mp3
+<f+++++++++ Cage The Elephant/Melophobia/06 Halo.mp3
+<f+++++++++ Cage The Elephant/Melophobia/08 Hypocrite.mp3
+<f+++++++++ Cage The Elephant/Melophobia/10 Cigarette Daydreams.mp3
+cd+++++++++ Cage The Elephant/Social Cues/
+<f+++++++++ Cage The Elephant/Social Cues/01. Broken Boy.mp3
+<f+++++++++ Cage The Elephant/Social Cues/02. Social Cues.mp3
+<f+++++++++ Cage The Elephant/Social Cues/03. Black Madonna.mp3
+<f+++++++++ Cage The Elephant/Social Cues/04. Night Running.mp3
+<f+++++++++ Cage The Elephant/Social Cues/05. Skin and Bones.mp3
+<f+++++++++ Cage The Elephant/Social Cues/06. Ready to Let Go.mp3
+<f+++++++++ Cage The Elephant/Social Cues/07. House of Glass.mp3
+<f+++++++++ Cage The Elephant/Social Cues/08. Love's the Only Way.mp3
+<f+++++++++ Cage The Elephant/Social Cues/09. The War Is Over.mp3
+<f+++++++++ Cage The Elephant/Social Cues/10. Dance Dance.mp3
+<f+++++++++ Cage The Elephant/Social Cues/11. What I'm Becoming.mp3
+<f+++++++++ Cage The Elephant/Social Cues/12. Tokyo Smoke.mp3
+<f+++++++++ Cage The Elephant/Social Cues/13. Goodbye.mp3
+cd+++++++++ Cage The Elephant/Tell Me I'm Pretty/
+<f+++++++++ Cage The Elephant/Tell Me I'm Pretty/01 Cry Baby.mp3
+<f+++++++++ Cage The Elephant/Tell Me I'm Pretty/02 Mess Around.mp3
+<f+++++++++ Cage The Elephant/Tell Me I'm Pretty/03 Sweetie Little Jean.mp3
+<f+++++++++ Cage The Elephant/Tell Me I'm Pretty/04 Too Late to Say Goodbye.mp3
+<f+++++++++ Cage The Elephant/Tell Me I'm Pretty/05 Cold Cold Cold.mp3
+<f+++++++++ Cage The Elephant/Tell Me I'm Pretty/06 Trouble.mp3
+<f+++++++++ Cage The Elephant/Tell Me I'm Pretty/07 How Are You True.mp3
+<f+++++++++ Cage The Elephant/Tell Me I'm Pretty/08 That's Right.mp3
+<f+++++++++ Cage The Elephant/Tell Me I'm Pretty/09 Punchin' Bag.mp3
+<f+++++++++ Cage The Elephant/Tell Me I'm Pretty/10 Portuguese Knife Fight.mp3
+cd+++++++++ Cage The Elephant/Thank You Happy Birthday/
+<f+++++++++ Cage The Elephant/Thank You Happy Birthday/02 Aberdeen.mp3
+<f+++++++++ Cage The Elephant/Thank You Happy Birthday/04 Shake Me Down.mp3
+<f+++++++++ Cage The Elephant/Thank You Happy Birthday/05 2024.mp3
+<f+++++++++ Cage The Elephant/Thank You Happy Birthday/07 Rubber Ball.mp3
+<f+++++++++ Cage The Elephant/Thank You Happy Birthday/08 Right Before My Eyes.mp3
+<f+++++++++ Cage The Elephant/Thank You Happy Birthday/09 Around My Head.mp3
+cd+++++++++ Cake/
+<f+++++++++ Cake/00 Long Time.mp3
+cd+++++++++ Cam Meekins/
+cd+++++++++ Cam Meekins/Lamp City/
+<f+++++++++ Cam Meekins/Lamp City/01 Intro.mp3
+<f+++++++++ Cam Meekins/Lamp City/02 Chop The Sample Up.mp3
+<f+++++++++ Cam Meekins/Lamp City/03 No (On Top).mp3
+<f+++++++++ Cam Meekins/Lamp City/04 Lamp City Family.mp3
+<f+++++++++ Cam Meekins/Lamp City/05 Life Is Good (feat_ Stizzy & J.mp3
+<f+++++++++ Cam Meekins/Lamp City/06 Fresh.mp3
+<f+++++++++ Cam Meekins/Lamp City/07 Better Days.mp3
+<f+++++++++ Cam Meekins/Lamp City/08 Judge (Interlude).mp3
+<f+++++++++ Cam Meekins/Lamp City/09 Judge.mp3
+<f+++++++++ Cam Meekins/Lamp City/10 Judge (Interlude 2).mp3
+<f+++++++++ Cam Meekins/Lamp City/11 Inhale.mp3
+<f+++++++++ Cam Meekins/Lamp City/12 You.mp3
+<f+++++++++ Cam Meekins/Lamp City/13 Truckers (feat_ Jeff Replay).mp3
+<f+++++++++ Cam Meekins/Lamp City/14 High (feat_ Skizzy Mars).mp3
+cd+++++++++ Cam Meekins/_) __ _(/
+<f+++++++++ Cam Meekins/_) __ _(/01 Bob Intro.mp3
+<f+++++++++ Cam Meekins/_) __ _(/02 Do You.mp3
+<f+++++++++ Cam Meekins/_) __ _(/03 Cut Me Off.mp3
+<f+++++++++ Cam Meekins/_) __ _(/04 Don't Be A Bitch.mp3
+<f+++++++++ Cam Meekins/_) __ _(/05 Maggie.mp3
+<f+++++++++ Cam Meekins/_) __ _(/06 Everything I'm Not.mp3
+<f+++++++++ Cam Meekins/_) __ _(/07 I Give A Fuck.mp3
+<f+++++++++ Cam Meekins/_) __ _(/08 Anemic feat Chris King.mp3
+<f+++++++++ Cam Meekins/_) __ _(/09 I'm Confessin' (That I Love Yo.mp3
+<f+++++++++ Cam Meekins/_) __ _(/10 Matty Skit.mp3
+<f+++++++++ Cam Meekins/_) __ _(/11 #FuckYourBitch.mp3
+<f+++++++++ Cam Meekins/_) __ _(/12 Gone.mp3
+<f+++++++++ Cam Meekins/_) __ _(/13 Just To Be Wrong feat Trama.mp3
+<f+++++++++ Cam Meekins/_) __ _(/14 Run Away.mp3
+<f+++++++++ Cam Meekins/_) __ _(/15 Outro.mp3
+cd+++++++++ Capital Cities/
+cd+++++++++ Capital Cities/In a Tidal Wave of Mystery (Ja/
+<f+++++++++ Capital Cities/In a Tidal Wave of Mystery (Ja/01 Safe and Sound.mp3
+<f+++++++++ Capital Cities/In a Tidal Wave of Mystery (Ja/02 Patience Gets Us Nowhere Fast.mp3
+<f+++++++++ Capital Cities/In a Tidal Wave of Mystery (Ja/03 Kangaroo Court.mp3
+<f+++++++++ Capital Cities/In a Tidal Wave of Mystery (Ja/04 I Sold My Bed_ But Not My Ster.mp3
+<f+++++++++ Capital Cities/In a Tidal Wave of Mystery (Ja/05 Center Stage.mp3
+<f+++++++++ Capital Cities/In a Tidal Wave of Mystery (Ja/06 Farrah Fawcett Hair.mp3
+<f+++++++++ Capital Cities/In a Tidal Wave of Mystery (Ja/07 Chartreuse.mp3
+<f+++++++++ Capital Cities/In a Tidal Wave of Mystery (Ja/08 Origami.mp3
+<f+++++++++ Capital Cities/In a Tidal Wave of Mystery (Ja/09 Lazy Lies.mp3
+<f+++++++++ Capital Cities/In a Tidal Wave of Mystery (Ja/10 Tell Me How to Live.mp3
+<f+++++++++ Capital Cities/In a Tidal Wave of Mystery (Ja/11 Chasing You.mp3
+<f+++++++++ Capital Cities/In a Tidal Wave of Mystery (Ja/12 Love Away.mp3
+<f+++++++++ Capital Cities/In a Tidal Wave of Mystery (Ja/13 One Minute More.mp3
+<f+++++++++ Capital Cities/In a Tidal Wave of Mystery (Ja/14 Stayin' Alive.mp3
+cd+++++++++ Cat Power/
+<f+++++++++ Cat Power/00 3_ 6_ 9.mp3
+cd+++++++++ Caught A Ghost/
+cd+++++++++ Caught A Ghost/Human Nature/
+<f+++++++++ Caught A Ghost/Human Nature/04 Time Go.mp3
+cd+++++++++ Chet Faker/
+<f+++++++++ Chet Faker/00 Gold.mp3
+<f+++++++++ Chet Faker/00 I'm Into You.mp3
+<f+++++++++ Chet Faker/00 No Diggity.mp3
+cd+++++++++ Clean Bandit/
+cd+++++++++ Clean Bandit/New Eyes/
+<f+++++++++ Clean Bandit/New Eyes/00 Dust Clears.mp3
+<f+++++++++ Clean Bandit/New Eyes/00 Rather Be.mp3
+cd+++++++++ CocoRosie/
+cd+++++++++ CocoRosie/Lemonade/
+<f+++++++++ CocoRosie/Lemonade/00 Lemonade.mp3
+cd+++++++++ Cocorosie/
+cd+++++++++ Cocorosie/Heartache City/
+<f+++++++++ Cocorosie/Heartache City/01 Forget Me Not.mp3
+<f+++++++++ Cocorosie/Heartache City/02 Un Beso.mp3
+<f+++++++++ Cocorosie/Heartache City/03 Lost Girls.mp3
+<f+++++++++ Cocorosie/Heartache City/04 Heartache City.mp3
+<f+++++++++ Cocorosie/Heartache City/05 The Tower of Pisa.mp3
+<f+++++++++ Cocorosie/Heartache City/06 Bed Bugs.mp3
+<f+++++++++ Cocorosie/Heartache City/07 Tim and Tina.mp3
+<f+++++++++ Cocorosie/Heartache City/08 Big and Black.mp3
+<f+++++++++ Cocorosie/Heartache City/09 Lucky Clover.mp3
+<f+++++++++ Cocorosie/Heartache City/10 No One Knows.mp3
+cd+++++++++ Coeur de Pirate/
+cd+++++++++ Coeur de Pirate/Coeur De Pirate/
+<f+++++++++ Coeur de Pirate/Coeur De Pirate/01 Le Long Du Large.mp3
+cd+++++++++ Coeur de Pirate/Coeur de Pirate/
+<f+++++++++ Coeur de Pirate/Coeur de Pirate/02 Comme des Enfants.mp3
+<f+++++++++ Coeur de Pirate/Coeur de Pirate/04 Corbeau.mp3
+<f+++++++++ Coeur de Pirate/Coeur de Pirate/05 Berceuse.mp3
+<f+++++++++ Coeur de Pirate/Coeur de Pirate/07 Printemps.mp3
+cd+++++++++ Coeur de Pirate/Coeur de pirate/
+<f+++++++++ Coeur de Pirate/Coeur de pirate/11 Francis.mp3
+cd+++++++++ Coolio/
+cd+++++++++ Coolio/Gangsta's Paradise/
+<f+++++++++ Coolio/Gangsta's Paradise/03 Gangsta's Paradise.mp3
+cd+++++++++ Cro/
+cd+++++++++ Cro/Easy/
+<f+++++++++ Cro/Easy/02 Kein Benz.mp3
+<f+++++++++ Cro/Easy/04 Immer Da.mp3
+<f+++++++++ Cro/Easy/09 Geht Gut.mp3
+cd+++++++++ Cro/Meine Musik/
+<f+++++++++ Cro/Meine Musik/00 Wir Sind Da.mp3
+cd+++++++++ Cro/Raop/
+<f+++++++++ Cro/Raop/00 Ab Jetzt.mp3
+<f+++++++++ Cro/Raop/00 Bei Dir.mp3
+<f+++++++++ Cro/Raop/00 Chillin.mp3
+<f+++++++++ Cro/Raop/00 Papa Schüttelt Sein Kopf.mp3
+<f+++++++++ Cro/Raop/00 Whatever.mp3
+<f+++++++++ Cro/Raop/00 Wie Du.mp3
+<f+++++++++ Cro/Raop/00 Wie Ich Bin.mp3
+<f+++++++++ Cro/Raop/05 Du.mp3
+<f+++++++++ Cro/Raop/08 Nie Mehr.mp3
+<f+++++++++ Cro/Raop/09 Jeden Tag.mp3
+<f+++++++++ Cro/Raop/11 Einmal Um Die Welt.mp3
+<f+++++++++ Cro/Raop/13 Ein Teil.mp3
+cd+++++++++ D-WHY/
+cd+++++++++ D-WHY/Don't Flatter Yourself/
+<f+++++++++ D-WHY/Don't Flatter Yourself/01 The Prelude.mp3
+<f+++++++++ D-WHY/Don't Flatter Yourself/02 Hawaii.mp3
+<f+++++++++ D-WHY/Don't Flatter Yourself/03 2000 Miles.mp3
+<f+++++++++ D-WHY/Don't Flatter Yourself/04 New York Times.mp3
+<f+++++++++ D-WHY/Don't Flatter Yourself/05 Ballad Of An Asshole.mp3
+<f+++++++++ D-WHY/Don't Flatter Yourself/06 Kill Me Now.mp3
+<f+++++++++ D-WHY/Don't Flatter Yourself/07 We Don't Know.mp3
+<f+++++++++ D-WHY/Don't Flatter Yourself/08 Stealing Youth.mp3
+<f+++++++++ D-WHY/Don't Flatter Yourself/09 All Good.mp3
+<f+++++++++ D-WHY/Don't Flatter Yourself/10 Good Will Stunting Interlude.mp3
+<f+++++++++ D-WHY/Don't Flatter Yourself/11 Good Will Stunting.mp3
+<f+++++++++ D-WHY/Don't Flatter Yourself/12 Flattery.mp3
+<f+++++++++ D-WHY/Don't Flatter Yourself/13 Tonight We Fight.mp3
+<f+++++++++ D-WHY/Don't Flatter Yourself/14 Limitless.mp3
+<f+++++++++ D-WHY/Don't Flatter Yourself/15 So Committed.mp3
+<f+++++++++ D-WHY/Don't Flatter Yourself/16 David & Goliath.mp3
+<f+++++++++ D-WHY/Don't Flatter Yourself/17 The Reprise.mp3
+cd+++++++++ DATA/
+<f+++++++++ DATA/00 Don't Sing.mp3
+<f+++++++++ DATA/00 One In A Million.mp3
+<f+++++++++ DATA/00 Patriots.mp3
+<f+++++++++ DATA/00 Soldier's Flag.mp3
+cd+++++++++ Daft Punk/
+cd+++++++++ Daft Punk/Random Access Memories/
+<f+++++++++ Daft Punk/Random Access Memories/01 Give Life Back to Music.mp3
+<f+++++++++ Daft Punk/Random Access Memories/05 Instant Crush.mp3
+<f+++++++++ Daft Punk/Random Access Memories/06 Lose Yourself to Dance.mp3
+<f+++++++++ Daft Punk/Random Access Memories/08 Get Lucky.mp3
+<f+++++++++ Daft Punk/Random Access Memories/11 Fragments of Time.mp3
+cd+++++++++ David Bowie/
+cd+++++++++ David Bowie/Best Of Bowie/
+<f+++++++++ David Bowie/Best Of Bowie/01 Space Oddity (1999 Remastered.mp3
+<f+++++++++ David Bowie/Best Of Bowie/02 The Man Who Sold The World (19.mp3
+<f+++++++++ David Bowie/Best Of Bowie/04 Changes (1999 Remastered Versi.mp3
+<f+++++++++ David Bowie/Best Of Bowie/06 Starman (2002 Remastered Versi.mp3
+<f+++++++++ David Bowie/Best Of Bowie/07 Ziggy Stardust (2002 Remastere.mp3
+<f+++++++++ David Bowie/Best Of Bowie/08 Suffragette City (2002 Remaste.mp3
+<f+++++++++ David Bowie/Best Of Bowie/14 Rebel Rebel (1999 Remastered V.mp3
+<f+++++++++ David Bowie/Best Of Bowie/2-02 Heroes (Single Version) _2002.mp3
+<f+++++++++ David Bowie/Best Of Bowie/2-05 Ashes To Ashes (2002 Remastere.mp3
+cd+++++++++ David Bowie/Let's Dance/
+<f+++++++++ David Bowie/Let's Dance/01 Modern Love (1999 Remastered V.mp3
+<f+++++++++ David Bowie/Let's Dance/03 Let's Dance (1999 Remastered V.mp3
+cd+++++++++ David Bowie/Sound And Vision/
+<f+++++++++ David Bowie/Sound And Vision/10 Moonage Daydream (2002 Remaste.mp3
+cd+++++++++ David Bowie/The Life Aquatic With Steve Zi/
+<f+++++++++ David Bowie/The Life Aquatic With Steve Zi/03 Life On Mars_ (1999 - Remaster.mp3
+cd+++++++++ Dillon/
+cd+++++++++ Dillon/Ludwig/
+<f+++++++++ Dillon/Ludwig/01 Contact Us.mp3
+cd+++++++++ Dillon/This Silence Kills/
+<f+++++++++ Dillon/This Silence Kills/01 This Silence Kills.mp3
+<f+++++++++ Dillon/This Silence Kills/02 Tip Tapping.mp3
+<f+++++++++ Dillon/This Silence Kills/03 Thirteen Thirtyfive.mp3
+<f+++++++++ Dillon/This Silence Kills/04 Your Flesh Against Mine.mp3
+<f+++++++++ Dillon/This Silence Kills/05 You Are My Winter.mp3
+<f+++++++++ Dillon/This Silence Kills/06 Undying Need to Scream.mp3
+<f+++++++++ Dillon/This Silence Kills/07 _______________.mp3
+<f+++++++++ Dillon/This Silence Kills/08 From One to Six Hundred Kilome.mp3
+<f+++++++++ Dillon/This Silence Kills/09 Hey Beau.mp3
+<f+++++++++ Dillon/This Silence Kills/10 Texture of My Blood.mp3
+<f+++++++++ Dillon/This Silence Kills/11 Gumache.mp3
+<f+++++++++ Dillon/This Silence Kills/12 Abrupt Clarity.mp3
+cd+++++++++ Dire Straits/
+<f+++++++++ Dire Straits/13 Brother In Arms.mp3
+cd+++++++++ Disclosure/
+<f+++++++++ Disclosure/00 You And Me.mp3
+cd+++++++++ Dr Dre/
+cd+++++++++ Dr Dre/2001/
+<f+++++++++ Dr Dre/2001/00 Still Dre.mp3
+<f+++++++++ Dr Dre/2001/00 What's The Difference.mp3
+cd+++++++++ Eagles/
+cd+++++++++ Eagles/The Very Best of the Eagles _1/
+<f+++++++++ Eagles/The Very Best of the Eagles _1/13 Hotel California.mp3
+cd+++++++++ Eagles/Top 2000 (Radio 2)/
+<f+++++++++ Eagles/Top 2000 (Radio 2)/1375 Peaceful Easy Feeling.mp3
+<f+++++++++ Eagles/Top 2000 (Radio 2)/193 Desperado.mp3
+<f+++++++++ Eagles/Top 2000 (Radio 2)/557 One Of These Nights.mp3
+cd+++++++++ Electric Guest/
+cd+++++++++ Electric Guest/Mondo/
+<f+++++++++ Electric Guest/Mondo/01 Holes.mp3
+<f+++++++++ Electric Guest/Mondo/02 This Head I Hold.mp3
+<f+++++++++ Electric Guest/Mondo/03 Under The Gun.mp3
+<f+++++++++ Electric Guest/Mondo/04 Awake.mp3
+<f+++++++++ Electric Guest/Mondo/05 Amber.mp3
+<f+++++++++ Electric Guest/Mondo/06 The Bait.mp3
+<f+++++++++ Electric Guest/Mondo/07 Waves.mp3
+<f+++++++++ Electric Guest/Mondo/08 Troubleman.mp3
+<f+++++++++ Electric Guest/Mondo/09 American Daydream.mp3
+<f+++++++++ Electric Guest/Mondo/10 Control.mp3
+cd+++++++++ Electric Guest/Plural/
+<f+++++++++ Electric Guest/Plural/01 Zero.mp3
+<f+++++++++ Electric Guest/Plural/02 Glorious Warrior.mp3
+<f+++++++++ Electric Guest/Plural/03 Back & Forth.mp3
+<f+++++++++ Electric Guest/Plural/04 Dear To Me.mp3
+<f+++++++++ Electric Guest/Plural/05 Oh Devil.mp3
+<f+++++++++ Electric Guest/Plural/06 Back For Me.mp3
+<f+++++++++ Electric Guest/Plural/07 See The Light.mp3
+<f+++++++++ Electric Guest/Plural/08 Over.mp3
+<f+++++++++ Electric Guest/Plural/09 My Omen.mp3
+<f+++++++++ Electric Guest/Plural/10 Sarah.mp3
+<f+++++++++ Electric Guest/Plural/11 Bound To Lose.mp3
+cd+++++++++ Electric Guest/This Head I Hold/
+<f+++++++++ Electric Guest/This Head I Hold/00 Jenny.mp3
+cd+++++++++ Elephanz/
+cd+++++++++ Elephanz/Time For A Change/
+<f+++++++++ Elephanz/Time For A Change/00 Do You Like My Song.mp3
+<f+++++++++ Elephanz/Time For A Change/00 Elizabeth.mp3
+<f+++++++++ Elephanz/Time For A Change/00 Stereo.mp3
+<f+++++++++ Elephanz/Time For A Change/00 Time For A Change.mp3
+cd+++++++++ Emezie Okorafor/
+<f+++++++++ Emezie Okorafor/00 Queenfish.mp3
+cd+++++++++ Fakear/
+<f+++++++++ Fakear/00 Hinode.mp3
+cd+++++++++ Fakear/Dark Lands/
+<f+++++++++ Fakear/Dark Lands/01 Marymirror.mp3
+<f+++++++++ Fakear/Dark Lands/02 Like A Friend.mp3
+<f+++++++++ Fakear/Dark Lands/03 Dark Lands Song.mp3
+<f+++++++++ Fakear/Dark Lands/04 Damas.mp3
+<f+++++++++ Fakear/Dark Lands/05 Mount Silver.mp3
+cd+++++++++ Fakear/Morning In Japan/
+<f+++++++++ Fakear/Morning In Japan/01 Introduction.mp3
+<f+++++++++ Fakear/Morning In Japan/02 Morning In Japan.mp3
+<f+++++++++ Fakear/Morning In Japan/03 Kids.mp3
+<f+++++++++ Fakear/Morning In Japan/04 When The Night Comes.mp3
+cd+++++++++ Fakear/Sauvage/
+<f+++++++++ Fakear/Sauvage/01 La Lune Rousse.mp3
+<f+++++++++ Fakear/Sauvage/02 Two Arms Around You.mp3
+<f+++++++++ Fakear/Sauvage/03 Tigers.mp3
+<f+++++++++ Fakear/Sauvage/04 Darjeeling.mp3
+<f+++++++++ Fakear/Sauvage/05 Neptune.mp3
+<f+++++++++ Fakear/Sauvage/06 Pale War God.mp3
+<f+++++++++ Fakear/Sauvage/07 Thousand.mp3
+cd+++++++++ Fatboy Slim/
+cd+++++++++ Fatboy Slim/The Greatest Hits _ Why Try Ha/
+<f+++++++++ Fatboy Slim/The Greatest Hits _ Why Try Ha/00 Right Here Right Now.mp3
+cd+++++++++ Faul/
+<f+++++++++ Faul/00 Changes.mp3
+cd+++++++++ Fauve/
+cd+++++++++ Fauve/Blizzard/
+<f+++++++++ Fauve/Blizzard/01 Blizzard.mp3
+<f+++++++++ Fauve/Blizzard/02 Cock Music Smart Music.mp3
+<f+++++++++ Fauve/Blizzard/03 Nuits Fauves.mp3
+<f+++++++++ Fauve/Blizzard/04 Haut les Coeurs.mp3
+<f+++++++++ Fauve/Blizzard/05 Kané.mp3
+<f+++++++++ Fauve/Blizzard/06 Rub A Dub.mp3
+<f+++++++++ Fauve/Blizzard/07 2XGM.mp3
+cd+++++++++ Fauve/Sainte Anne/
+<f+++++++++ Fauve/Sainte Anne/01 Sainte Anne.mp3
+<f+++++++++ Fauve/Sainte Anne/02 4000 Îles.mp3
+cd+++++++++ Fauve/Vieux Frères - Partie 1/
+<f+++++++++ Fauve/Vieux Frères - Partie 1/01 Voyous.mp3
+<f+++++++++ Fauve/Vieux Frères - Partie 1/02 Requin-Tigre.mp3
+<f+++++++++ Fauve/Vieux Frères - Partie 1/03 Jeunesse Talking Blues.mp3
+<f+++++++++ Fauve/Vieux Frères - Partie 1/04 Rag #3.mp3
+<f+++++++++ Fauve/Vieux Frères - Partie 1/05 Infirmière.mp3
+<f+++++++++ Fauve/Vieux Frères - Partie 1/06 De Ceux.mp3
+<f+++++++++ Fauve/Vieux Frères - Partie 1/07 Rag #4.mp3
+<f+++++++++ Fauve/Vieux Frères - Partie 1/08 Tunnel.mp3
+<f+++++++++ Fauve/Vieux Frères - Partie 1/09 Vieux Frères.mp3
+<f+++++++++ Fauve/Vieux Frères - Partie 1/10 Lettre à Zoé.mp3
+<f+++++++++ Fauve/Vieux Frères - Partie 1/11 Loterie.mp3
+cd+++++++++ Fauve/Vieux Frères - Partie 2/
+<f+++++++++ Fauve/Vieux Frères - Partie 2/01 Juillet (1998).mp3
+<f+++++++++ Fauve/Vieux Frères - Partie 2/02 Paraffine.mp3
+<f+++++++++ Fauve/Vieux Frères - Partie 2/03 Rag #5.mp3
+<f+++++++++ Fauve/Vieux Frères - Partie 2/04 Tallulah.mp3
+<f+++++++++ Fauve/Vieux Frères - Partie 2/05 Bermudes.mp3
+<f+++++++++ Fauve/Vieux Frères - Partie 2/07 Sous les arcades.mp3
+<f+++++++++ Fauve/Vieux Frères - Partie 2/08 T_R_W_.mp3
+<f+++++++++ Fauve/Vieux Frères - Partie 2/09 Rag #6.mp3
+<f+++++++++ Fauve/Vieux Frères - Partie 2/10 Révérence.mp3
+<f+++++++++ Fauve/Vieux Frères - Partie 2/11 Les Hautes Lumières.mp3
+cd+++++++++ Flight Facilities/
+<f+++++++++ Flight Facilities/00 Crave You.mp3
+cd+++++++++ Flume/
+<f+++++++++ Flume/00 Higher.mp3
+cd+++++++++ Flume/Flume/
+<f+++++++++ Flume/Flume/00 On Top.mp3
+<f+++++++++ Flume/Flume/01 Sintra.mp3
+<f+++++++++ Flume/Flume/02 Holdin' On.mp3
+<f+++++++++ Flume/Flume/03 Left Alone.mp3
+<f+++++++++ Flume/Flume/04 Sleepless.mp3
+<f+++++++++ Flume/Flume/05 On Top.mp3
+<f+++++++++ Flume/Flume/06 Stay Close.mp3
+<f+++++++++ Flume/Flume/07 Insane.mp3
+<f+++++++++ Flume/Flume/08 Change.mp3
+<f+++++++++ Flume/Flume/09 Ezra.mp3
+<f+++++++++ Flume/Flume/10 More Than You Thought.mp3
+<f+++++++++ Flume/Flume/11 Space Cadet.mp3
+<f+++++++++ Flume/Flume/12 Bring You Down.mp3
+<f+++++++++ Flume/Flume/13 Warm Thoughts.mp3
+<f+++++++++ Flume/Flume/14 What You Need.mp3
+<f+++++++++ Flume/Flume/15 Star Eyes.mp3
+cd+++++++++ Flume/Lockjaw/
+<f+++++++++ Flume/Lockjaw/00 Drop The Game.mp3
+cd+++++++++ Flume/Skin/
+<f+++++++++ Flume/Skin/00 Some Minds.mp3
+cd+++++++++ Foals/
+cd+++++++++ Foals/Antidotes/
+<f+++++++++ Foals/Antidotes/01 The French Open.mp3
+<f+++++++++ Foals/Antidotes/02 Cassius.mp3
+<f+++++++++ Foals/Antidotes/03 Red Socks Pugie.mp3
+<f+++++++++ Foals/Antidotes/04 Olympic Airways.mp3
+<f+++++++++ Foals/Antidotes/05 Electric Bloom.mp3
+<f+++++++++ Foals/Antidotes/06 Balloons.mp3
+<f+++++++++ Foals/Antidotes/07 Heavy Water.mp3
+<f+++++++++ Foals/Antidotes/08 Two Steps Twice.mp3
+<f+++++++++ Foals/Antidotes/09 Big Big Love (Fig_ 2).mp3
+<f+++++++++ Foals/Antidotes/10 Like Swimming.mp3
+<f+++++++++ Foals/Antidotes/11 Tron.mp3
+cd+++++++++ Foals/Everything Not Saved Will Be Lost, Part 1/
+<f+++++++++ Foals/Everything Not Saved Will Be Lost, Part 1/01. Moonlight.mp3
+<f+++++++++ Foals/Everything Not Saved Will Be Lost, Part 1/02. Exits.mp3
+<f+++++++++ Foals/Everything Not Saved Will Be Lost, Part 1/03. White Onions.mp3
+<f+++++++++ Foals/Everything Not Saved Will Be Lost, Part 1/04. In Degrees.mp3
+<f+++++++++ Foals/Everything Not Saved Will Be Lost, Part 1/05. Syrups.mp3
+<f+++++++++ Foals/Everything Not Saved Will Be Lost, Part 1/06. On The Luna.mp3
+<f+++++++++ Foals/Everything Not Saved Will Be Lost, Part 1/07. Cafe D'Athens.mp3
+<f+++++++++ Foals/Everything Not Saved Will Be Lost, Part 1/08. Surf, Pt. 1.mp3
+<f+++++++++ Foals/Everything Not Saved Will Be Lost, Part 1/09. Sunday.mp3
+<f+++++++++ Foals/Everything Not Saved Will Be Lost, Part 1/10. I'm Done With The World (& It's Done With Me).mp3
+cd+++++++++ Foals/Holy Fire/
+<f+++++++++ Foals/Holy Fire/01 Prelude.mp3
+<f+++++++++ Foals/Holy Fire/02 Inhaler.mp3
+<f+++++++++ Foals/Holy Fire/03 My Number.mp3
+<f+++++++++ Foals/Holy Fire/04 Bad Habit.mp3
+<f+++++++++ Foals/Holy Fire/05 Everytime.mp3
+<f+++++++++ Foals/Holy Fire/06 Late Night.mp3
+<f+++++++++ Foals/Holy Fire/07 Out of the Woods.mp3
+<f+++++++++ Foals/Holy Fire/08 Milk & Black Spiders.mp3
+<f+++++++++ Foals/Holy Fire/09 Providence.mp3
+<f+++++++++ Foals/Holy Fire/10 Stepson.mp3
+<f+++++++++ Foals/Holy Fire/11 Moon.mp3
+cd+++++++++ Foals/Total Life Forever/
+<f+++++++++ Foals/Total Life Forever/01 Blue Blood.mp3
+<f+++++++++ Foals/Total Life Forever/02 Miami.mp3
+<f+++++++++ Foals/Total Life Forever/03 Total Life Forever.mp3
+<f+++++++++ Foals/Total Life Forever/04 Black Gold.mp3
+<f+++++++++ Foals/Total Life Forever/05 Spanish Sahara.mp3
+<f+++++++++ Foals/Total Life Forever/06 This Orient.mp3
+<f+++++++++ Foals/Total Life Forever/07 Fugue.mp3
+<f+++++++++ Foals/Total Life Forever/08 After Glow.mp3
+<f+++++++++ Foals/Total Life Forever/09 Alabaster.mp3
+<f+++++++++ Foals/Total Life Forever/10 2 Trees.mp3
+<f+++++++++ Foals/Total Life Forever/11 What Remains.mp3
+cd+++++++++ Foals/What Went Down/
+<f+++++++++ Foals/What Went Down/00 Mountain At My Gates.mp3
+<f+++++++++ Foals/What Went Down/01 What Went Down.mp3
+<f+++++++++ Foals/What Went Down/02 Mountain at My Gates.mp3
+<f+++++++++ Foals/What Went Down/03 Birch Tree.mp3
+<f+++++++++ Foals/What Went Down/04 Give It All.mp3
+<f+++++++++ Foals/What Went Down/05 Albatross.mp3
+<f+++++++++ Foals/What Went Down/06 Snake Oil.mp3
+<f+++++++++ Foals/What Went Down/07 Night Swimmers.mp3
+<f+++++++++ Foals/What Went Down/08 London Thunder.mp3
+<f+++++++++ Foals/What Went Down/09 Lonely Hunter.mp3
+<f+++++++++ Foals/What Went Down/10 A Knife in the Ocean.mp3
+cd+++++++++ Foster The People/
+cd+++++++++ Foster The People/Sacred Hearts Club/
+<f+++++++++ Foster The People/Sacred Hearts Club/01 Pay The Man.mp3
+<f+++++++++ Foster The People/Sacred Hearts Club/02 Doing It For The Money.mp3
+<f+++++++++ Foster The People/Sacred Hearts Club/03 Sit Next To Me.mp3
+<f+++++++++ Foster The People/Sacred Hearts Club/04 SHC.mp3
+<f+++++++++ Foster The People/Sacred Hearts Club/05 I Love My Friends.mp3
+<f+++++++++ Foster The People/Sacred Hearts Club/06 Orange Dream.mp3
+<f+++++++++ Foster The People/Sacred Hearts Club/07 Static Space Lover.mp3
+<f+++++++++ Foster The People/Sacred Hearts Club/08 Lotus Eater.mp3
+<f+++++++++ Foster The People/Sacred Hearts Club/09 Time To Get Closer.mp3
+<f+++++++++ Foster The People/Sacred Hearts Club/10 Loyal Like Sid & Nancy.mp3
+<f+++++++++ Foster The People/Sacred Hearts Club/11 Harden The Paint.mp3
+<f+++++++++ Foster The People/Sacred Hearts Club/12 III.mp3
+cd+++++++++ Foster The People/Supermodel/
+<f+++++++++ Foster The People/Supermodel/00 Coming Of Age.mp3
+<f+++++++++ Foster The People/Supermodel/01 Are You What You Want to Be_.mp3
+<f+++++++++ Foster The People/Supermodel/02 Ask Yourself.mp3
+<f+++++++++ Foster The People/Supermodel/03 Coming of Age.mp3
+<f+++++++++ Foster The People/Supermodel/04 Never Mind.mp3
+<f+++++++++ Foster The People/Supermodel/05 Pseudologia Fantastica.mp3
+<f+++++++++ Foster The People/Supermodel/06 The Angelic Welcome of Mr_ Jon.mp3
+<f+++++++++ Foster The People/Supermodel/07 Best Friend.mp3
+<f+++++++++ Foster The People/Supermodel/08 A Beginner's Guide to Destroyi.mp3
+<f+++++++++ Foster The People/Supermodel/09 Goats in Trees.mp3
+<f+++++++++ Foster The People/Supermodel/10 The Truth.mp3
+<f+++++++++ Foster The People/Supermodel/11 Fire Escape.mp3
+<f+++++++++ Foster The People/Supermodel/12 Tabloid Super Junkie.mp3
+cd+++++++++ Foster The People/Torches/
+<f+++++++++ Foster The People/Torches/01 Helena Beat.mp3
+<f+++++++++ Foster The People/Torches/02 Pumped Up Kicks.mp3
+<f+++++++++ Foster The People/Torches/03 Call It What You Want.mp3
+<f+++++++++ Foster The People/Torches/04 Don't Stop (Color On the Walls.mp3
+<f+++++++++ Foster The People/Torches/05 Waste.mp3
+<f+++++++++ Foster The People/Torches/06 I Would Do Anything For You.mp3
+<f+++++++++ Foster The People/Torches/07 Houdini.mp3
+<f+++++++++ Foster The People/Torches/08 Life On the Nickel.mp3
+<f+++++++++ Foster The People/Torches/09 Miss You.mp3
+<f+++++++++ Foster The People/Torches/11 Broken Jaw.mp3
+<f+++++++++ Foster The People/Torches/12 Love.mp3
+<f+++++++++ Foster The People/Torches/13 Chin Music For The Unsuspectin.mp3
+cd+++++++++ Frank Ocean/
+cd+++++++++ Frank Ocean/Blonde/
+<f+++++++++ Frank Ocean/Blonde/01 Nikes.mp3
+<f+++++++++ Frank Ocean/Blonde/02 Ivy.mp3
+<f+++++++++ Frank Ocean/Blonde/03 Pink _ White.mp3
+<f+++++++++ Frank Ocean/Blonde/04 Be Yourself.mp3
+<f+++++++++ Frank Ocean/Blonde/05 Solo.mp3
+<f+++++++++ Frank Ocean/Blonde/06 Skyline To.mp3
+<f+++++++++ Frank Ocean/Blonde/07 Self Control.mp3
+<f+++++++++ Frank Ocean/Blonde/08 Good Guy.mp3
+<f+++++++++ Frank Ocean/Blonde/09 Nights.mp3
+<f+++++++++ Frank Ocean/Blonde/10 Solo.mp3
+<f+++++++++ Frank Ocean/Blonde/11 Pretty Sweet.mp3
+<f+++++++++ Frank Ocean/Blonde/12 Facebook Story.mp3
+<f+++++++++ Frank Ocean/Blonde/13 Close To You.mp3
+<f+++++++++ Frank Ocean/Blonde/14 White Ferrari.mp3
+<f+++++++++ Frank Ocean/Blonde/15 Seigfried.mp3
+<f+++++++++ Frank Ocean/Blonde/16 Godspeed.mp3
+<f+++++++++ Frank Ocean/Blonde/17 Futura Free.mp3
+cd+++++++++ Frank Ocean/Channel Orange/
+<f+++++++++ Frank Ocean/Channel Orange/02 Thinkin Bout You.mp3
+<f+++++++++ Frank Ocean/Channel Orange/03 Fertilizer.mp3
+<f+++++++++ Frank Ocean/Channel Orange/07 Super Rich Kids (feat_ Earl Sw.mp3
+<f+++++++++ Frank Ocean/Channel Orange/10 Pyramids.mp3
+<f+++++++++ Frank Ocean/Channel Orange/11 Lost.mp3
+<f+++++++++ Frank Ocean/Channel Orange/12 White (feat_ John Mayer).mp3
+<f+++++++++ Frank Ocean/Channel Orange/14 Bad Religion.mp3
+<f+++++++++ Frank Ocean/Channel Orange/15 Pink Matter (feat_ André 3000.mp3
+<f+++++++++ Frank Ocean/Channel Orange/16 Forrest Gump.mp3
+cd+++++++++ Franz Ferdinand/
+cd+++++++++ Franz Ferdinand/Always Ascending/
+<f+++++++++ Franz Ferdinand/Always Ascending/01 Always Ascending.mp3
+<f+++++++++ Franz Ferdinand/Always Ascending/01. Always Ascending.mp3
+<f+++++++++ Franz Ferdinand/Always Ascending/02 Lazy Boy.mp3
+<f+++++++++ Franz Ferdinand/Always Ascending/02. Lazy Boy.mp3
+<f+++++++++ Franz Ferdinand/Always Ascending/03 Paper Cages.mp3
+<f+++++++++ Franz Ferdinand/Always Ascending/03. Paper Cages.mp3
+<f+++++++++ Franz Ferdinand/Always Ascending/04 Finally.mp3
+<f+++++++++ Franz Ferdinand/Always Ascending/04. Finally.mp3
+<f+++++++++ Franz Ferdinand/Always Ascending/05 The Academy Award.mp3
+<f+++++++++ Franz Ferdinand/Always Ascending/05. The Academy Award.mp3
+<f+++++++++ Franz Ferdinand/Always Ascending/06 Lois Lane.mp3
+<f+++++++++ Franz Ferdinand/Always Ascending/06. Lois Lane.mp3
+<f+++++++++ Franz Ferdinand/Always Ascending/07 Huck and Jim.mp3
+<f+++++++++ Franz Ferdinand/Always Ascending/07. Huck and Jim.mp3
+<f+++++++++ Franz Ferdinand/Always Ascending/08 Glimpse of Love.mp3
+<f+++++++++ Franz Ferdinand/Always Ascending/08. Glimpse of Love.mp3
+<f+++++++++ Franz Ferdinand/Always Ascending/09 Feel the Love Go.mp3
+<f+++++++++ Franz Ferdinand/Always Ascending/09. Feel the Love Go.mp3
+<f+++++++++ Franz Ferdinand/Always Ascending/10 Slow Don't Kill Me Slow.mp3
+<f+++++++++ Franz Ferdinand/Always Ascending/10. Slow Don't Kill Me Slow.mp3
+<f+++++++++ Franz Ferdinand/Always Ascending/Franz Ferdinand - Always Ascending (2018).jpg
+cd+++++++++ Franz Ferdinand/Franz Ferdinand/
+<f+++++++++ Franz Ferdinand/Franz Ferdinand/01 Jacqueline.mp3
+<f+++++++++ Franz Ferdinand/Franz Ferdinand/02 Tell Her Tonight.mp3
+<f+++++++++ Franz Ferdinand/Franz Ferdinand/03 Take Me Out.mp3
+<f+++++++++ Franz Ferdinand/Franz Ferdinand/04 The Dark of the Matinee.mp3
+<f+++++++++ Franz Ferdinand/Franz Ferdinand/05 Auf Achse.mp3
+<f+++++++++ Franz Ferdinand/Franz Ferdinand/06 Cheating on You.mp3
+<f+++++++++ Franz Ferdinand/Franz Ferdinand/07 This Fire.mp3
+<f+++++++++ Franz Ferdinand/Franz Ferdinand/08 Darts of Pleasure.mp3
+<f+++++++++ Franz Ferdinand/Franz Ferdinand/09 Michael.mp3
+<f+++++++++ Franz Ferdinand/Franz Ferdinand/10 Come on Home.mp3
+<f+++++++++ Franz Ferdinand/Franz Ferdinand/11 40'.mp3
+cd+++++++++ Funeral Suits/
+cd+++++++++ Funeral Suits/Lily of the Valley/
+<f+++++++++ Funeral Suits/Lily of the Valley/04 Hands Down by Your Side.mp3
+<f+++++++++ Funeral Suits/Lily of the Valley/05 All Those Friendly People.mp3
+<f+++++++++ Funeral Suits/Lily of the Valley/06 We Only Attack Ourselves.mp3
+<f+++++++++ Funeral Suits/Lily of the Valley/11 I Still Love the High.mp3
+cd+++++++++ Goldroom/
+<f+++++++++ Goldroom/00 Fifteen.mp3
+cd+++++++++ Gorillaz/
+cd+++++++++ Gorillaz/Plastic Beach/
+<f+++++++++ Gorillaz/Plastic Beach/00 On Melancholy Hill.mp3
+cd+++++++++ Herman's hermits/
+cd+++++++++ Herman's hermits/The Story/
+<f+++++++++ Herman's hermits/The Story/17 No Milk Today.mp3
+cd+++++++++ Holy Oysters/
+cd+++++++++ Holy Oysters/Holy Oysters/
+<f+++++++++ Holy Oysters/Holy Oysters/01 Take Me For a Ride.mp3
+<f+++++++++ Holy Oysters/Holy Oysters/02 Kaleidoscope.mp3
+<f+++++++++ Holy Oysters/Holy Oysters/03 Oh.mp3
+<f+++++++++ Holy Oysters/Holy Oysters/04 My Mind Slipped Away.mp3
+<f+++++++++ Holy Oysters/Holy Oysters/05 Supersonic.mp3
+cd+++++++++ Hyphen Hyphen/
+cd+++++++++ Hyphen Hyphen/Times/
+<f+++++++++ Hyphen Hyphen/Times/01 I Cry All Day.mp3
+<f+++++++++ Hyphen Hyphen/Times/02 Just Need Your Love.mp3
+<f+++++++++ Hyphen Hyphen/Times/03 We Light The Sunshine.mp3
+<f+++++++++ Hyphen Hyphen/Times/04 Cause I Got A Chance.mp3
+<f+++++++++ Hyphen Hyphen/Times/05 Closer To You.mp3
+<f+++++++++ Hyphen Hyphen/Times/06 Please Me.mp3
+<f+++++++++ Hyphen Hyphen/Times/07 The Fear Is Blue.mp3
+<f+++++++++ Hyphen Hyphen/Times/08 Stand Back.mp3
+<f+++++++++ Hyphen Hyphen/Times/09 No Sweet Surrenders.mp3
+<f+++++++++ Hyphen Hyphen/Times/10 I See Myself.mp3
+<f+++++++++ Hyphen Hyphen/Times/11 Steel.mp3
+<f+++++++++ Hyphen Hyphen/Times/12 Endless Lines.mp3
+cd+++++++++ I'm from Barcelona/
+cd+++++++++ I'm from Barcelona/Let Me Introduce My Friends/
+<f+++++++++ I'm from Barcelona/Let Me Introduce My Friends/02 Collection Of Stamps.mp3
+cd+++++++++ I'm from Barcelona/Who Killed Harry Houdini_/
+<f+++++++++ I'm from Barcelona/Who Killed Harry Houdini_/03 Headphones.mp3
+cd+++++++++ Imagine Dragons/
+cd+++++++++ Imagine Dragons/Night Visions/
+<f+++++++++ Imagine Dragons/Night Visions/01 Radioactive.mp3
+<f+++++++++ Imagine Dragons/Night Visions/02 Tiptoe.mp3
+<f+++++++++ Imagine Dragons/Night Visions/03 It's Time.mp3
+<f+++++++++ Imagine Dragons/Night Visions/04 Demons.mp3
+<f+++++++++ Imagine Dragons/Night Visions/05 On Top of the World.mp3
+<f+++++++++ Imagine Dragons/Night Visions/06 Amsterdam.mp3
+<f+++++++++ Imagine Dragons/Night Visions/07 Hear Me.mp3
+<f+++++++++ Imagine Dragons/Night Visions/08 Every Night.mp3
+<f+++++++++ Imagine Dragons/Night Visions/09 Bleeding Out.mp3
+<f+++++++++ Imagine Dragons/Night Visions/10 Underdog.mp3
+<f+++++++++ Imagine Dragons/Night Visions/11 Nothing Left to Say_Rocks.mp3
+<f+++++++++ Imagine Dragons/Night Visions/12 Working Man.mp3
+<f+++++++++ Imagine Dragons/Night Visions/13 Fallen.mp3
+<f+++++++++ Imagine Dragons/Night Visions/14 My Fault.mp3
+<f+++++++++ Imagine Dragons/Night Visions/15 Round and Round.mp3
+<f+++++++++ Imagine Dragons/Night Visions/16 The River.mp3
+<f+++++++++ Imagine Dragons/Night Visions/17 America.mp3
+<f+++++++++ Imagine Dragons/Night Visions/18 Selene.mp3
+cd+++++++++ Imagine Dragons/Smoke _ Mirrors/
+<f+++++++++ Imagine Dragons/Smoke _ Mirrors/01 Shots.mp3
+<f+++++++++ Imagine Dragons/Smoke _ Mirrors/02 Gold.mp3
+<f+++++++++ Imagine Dragons/Smoke _ Mirrors/03 Smoke and Mirrors.mp3
+<f+++++++++ Imagine Dragons/Smoke _ Mirrors/04 I'm So Sorry.mp3
+<f+++++++++ Imagine Dragons/Smoke _ Mirrors/05 I Bet My Life.mp3
+<f+++++++++ Imagine Dragons/Smoke _ Mirrors/06 Polaroid.mp3
+<f+++++++++ Imagine Dragons/Smoke _ Mirrors/07 Friction.mp3
+<f+++++++++ Imagine Dragons/Smoke _ Mirrors/08 It Comes Back to You.mp3
+<f+++++++++ Imagine Dragons/Smoke _ Mirrors/09 Dream.mp3
+<f+++++++++ Imagine Dragons/Smoke _ Mirrors/10 Trouble.mp3
+<f+++++++++ Imagine Dragons/Smoke _ Mirrors/11 Summer.mp3
+<f+++++++++ Imagine Dragons/Smoke _ Mirrors/12 Hopeless Opus.mp3
+<f+++++++++ Imagine Dragons/Smoke _ Mirrors/13 The Fall.mp3
+<f+++++++++ Imagine Dragons/Smoke _ Mirrors/14 Thief.mp3
+<f+++++++++ Imagine Dragons/Smoke _ Mirrors/15 The Unknown.mp3
+<f+++++++++ Imagine Dragons/Smoke _ Mirrors/16 Second Chances.mp3
+<f+++++++++ Imagine Dragons/Smoke _ Mirrors/17 Release.mp3
+<f+++++++++ Imagine Dragons/Smoke _ Mirrors/18 Warriors.mp3
+<f+++++++++ Imagine Dragons/Smoke _ Mirrors/19 Monster.mp3
+<f+++++++++ Imagine Dragons/Smoke _ Mirrors/20 Who We Are.mp3
+cd+++++++++ Jabberwocky/
+cd+++++++++ Jabberwocky/Lunar Lane/
+<f+++++++++ Jabberwocky/Lunar Lane/01 Maze.mp3
+<f+++++++++ Jabberwocky/Lunar Lane/02 Fog.mp3
+<f+++++++++ Jabberwocky/Lunar Lane/03 Photomaton.mp3
+<f+++++++++ Jabberwocky/Lunar Lane/04 Alastor.mp3
+<f+++++++++ Jabberwocky/Lunar Lane/05 Interlude.mp3
+<f+++++++++ Jabberwocky/Lunar Lane/06 Holding Up.mp3
+<f+++++++++ Jabberwocky/Lunar Lane/07 Dizzy Youth.mp3
+<f+++++++++ Jabberwocky/Lunar Lane/08 Pola.mp3
+<f+++++++++ Jabberwocky/Lunar Lane/09 Erratum.mp3
+<f+++++++++ Jabberwocky/Lunar Lane/10 Ignition.mp3
+<f+++++++++ Jabberwocky/Lunar Lane/11 Jeopardy.mp3
+<f+++++++++ Jabberwocky/Lunar Lane/12 Quantif.mp3
+cd+++++++++ Jacques Brel/
+cd+++++++++ Jacques Brel/Top 2000 (Radio 2)/
+<f+++++++++ Jacques Brel/Top 2000 (Radio 2)/66 Ne Me Quitte Pas.mp3
+cd+++++++++ John Newman/
+cd+++++++++ John Newman/Tribute/
+<f+++++++++ John Newman/Tribute/00 Love Me Again.mp3
+cd+++++++++ Julian Perretta/
+<f+++++++++ Julian Perretta/00 Stitch me up.mp3
+<f+++++++++ Julian Perretta/00 Wonder Why.mp3
+cd+++++++++ Jurassic 5/
+<f+++++++++ Jurassic 5/00 Thin Line.mp3
+cd+++++++++ Justice/
+cd+++++++++ Justice/D_A_N_C_E_/
+<f+++++++++ Justice/D_A_N_C_E_/04 D_A_N_C_E_.mp3
+cd+++++++++ K/
+cd+++++++++ K/Joanna/
+<f+++++++++ K/Joanna/17 Just The Two Of Us.mp3
+cd+++++++++ K_T_ Tunstall/
+cd+++++++++ K_T_ Tunstall/Eye to the Telescope/
+<f+++++++++ K_T_ Tunstall/Eye to the Telescope/09 Suddenly I See.mp3
+cd+++++++++ Kavinsky/
+cd+++++++++ Kavinsky/Nightcall/
+<f+++++++++ Kavinsky/Nightcall/01 Nightcall.mp3
+cd+++++++++ Keane/
+cd+++++++++ Keane/Hopes and Fears/
+<f+++++++++ Keane/Hopes and Fears/00 Bedshaped.mp3
+<f+++++++++ Keane/Hopes and Fears/00 Everybody's Changing.mp3
+<f+++++++++ Keane/Hopes and Fears/00 Somewhere Only We Know.mp3
+cd+++++++++ Keane/Under the Iron Sea/
+<f+++++++++ Keane/Under the Iron Sea/00 Nothing In My Way.mp3
+cd+++++++++ Kid Francescoli/
+cd+++++++++ Kid Francescoli/With Julia/
+<f+++++++++ Kid Francescoli/With Julia/01 Blow Up.mp3
+<f+++++++++ Kid Francescoli/With Julia/02 My Baby.mp3
+<f+++++++++ Kid Francescoli/With Julia/03 Prince Vince.mp3
+<f+++++++++ Kid Francescoli/With Julia/04 Boom Boom #2.mp3
+<f+++++++++ Kid Francescoli/With Julia/05 Does She_.mp3
+<f+++++++++ Kid Francescoli/With Julia/06 I Don't Know How.mp3
+<f+++++++++ Kid Francescoli/With Julia/07 Mr_ Know It All.mp3
+<f+++++++++ Kid Francescoli/With Julia/08 Disco Queen.mp3
+<f+++++++++ Kid Francescoli/With Julia/09 Italia 90.mp3
+<f+++++++++ Kid Francescoli/With Julia/10 Dirty Blonde (Bonus Track).mp3
+<f+++++++++ Kid Francescoli/With Julia/11 I Don't Know How (French 79 Re.mp3
+cd+++++++++ King Baby James/
+<f+++++++++ King Baby James/00 Golden Casket.mp3
+cd+++++++++ Klangkarussel/
+<f+++++++++ Klangkarussel/00 Sonnentanz.mp3
+cd+++++++++ Klingande/
+<f+++++++++ Klingande/00 Jubel.mp3
+cd+++++++++ Korn/
+cd+++++++++ Korn/Word Up/
+<f+++++++++ Korn/Word Up/01 Word Up.mp3
+cd+++++++++ Kygo/
+<f+++++++++ Kygo/00 Can't Afford It All.mp3
+<f+++++++++ Kygo/00 Dancer.mp3
+<f+++++++++ Kygo/00 Firestone.mp3
+<f+++++++++ Kygo/00 Sexual Healing.mp3
+<f+++++++++ Kygo/00 Stole The Show.mp3
+<f+++++++++ Kygo/00 Younger.mp3
+cd+++++++++ Lana Del Rey/
+<f+++++++++ Lana Del Rey/00 Blue Jeans.mp3
+<f+++++++++ Lana Del Rey/00 Born To Die.mp3
+<f+++++++++ Lana Del Rey/00 Carmen.mp3
+<f+++++++++ Lana Del Rey/00 Dark Paradise.mp3
+<f+++++++++ Lana Del Rey/00 Lolita.mp3
+<f+++++++++ Lana Del Rey/00 Lucky Ones.mp3
+<f+++++++++ Lana Del Rey/00 Radio.mp3
+<f+++++++++ Lana Del Rey/00 Summertime Sadness.mp3
+<f+++++++++ Lana Del Rey/00 Video Game.mp3
+cd+++++++++ Lana Del Rey/Born To Die/
+<f+++++++++ Lana Del Rey/Born To Die/00 Without You.mp3
+cd+++++++++ Lemaitre/
+<f+++++++++ Lemaitre/00 Cut To Black.mp3
+cd+++++++++ Leonard Cohen/
+<f+++++++++ Leonard Cohen/00 Dance Me To The End Of Love.mp3
+<f+++++++++ Leonard Cohen/00 Everybody Knows_1487534129537_.mp3
+cd+++++++++ Leonard Cohen/Natural Born Killers/
+<f+++++++++ Leonard Cohen/Natural Born Killers/00 Waiting for the Miracle.mp3
+cd+++++++++ Leonard Cohen/The Best of/
+<f+++++++++ Leonard Cohen/The Best of/01 Suzanne.mp3
+<f+++++++++ Leonard Cohen/The Best of/06 The Partisan.mp3
+cd+++++++++ Les Irrésistibles/
+cd+++++++++ Les Irrésistibles/My Year Is a Day/
+<f+++++++++ Les Irrésistibles/My Year Is a Day/01 My Year Is a Day.mp3
+cd+++++++++ Lilly Wood & The Pricks/
+cd+++++++++ Lilly Wood & The Pricks/The Fight/
+<f+++++++++ Lilly Wood & The Pricks/The Fight/00 Into Trouble.mp3
+<f+++++++++ Lilly Wood & The Pricks/The Fight/00 Invicible Friends.mp3
+<f+++++++++ Lilly Wood & The Pricks/The Fight/00 Let's Not Pretend.mp3
+<f+++++++++ Lilly Wood & The Pricks/The Fight/00 Prayer In C.mp3
+cd+++++++++ London Grammar/
+cd+++++++++ London Grammar/If You Wait/
+<f+++++++++ London Grammar/If You Wait/01 Hey Now.mp3
+<f+++++++++ London Grammar/If You Wait/02 Stay Awake.mp3
+<f+++++++++ London Grammar/If You Wait/03 Shyer.mp3
+<f+++++++++ London Grammar/If You Wait/04 Wasting My Young Years.mp3
+<f+++++++++ London Grammar/If You Wait/05 Sights.mp3
+<f+++++++++ London Grammar/If You Wait/06 Strong.mp3
+<f+++++++++ London Grammar/If You Wait/07 Nightcall.mp3
+<f+++++++++ London Grammar/If You Wait/08 Metal & Dust.mp3
+<f+++++++++ London Grammar/If You Wait/09 Interlude.mp3
+<f+++++++++ London Grammar/If You Wait/10 Flickers.mp3
+<f+++++++++ London Grammar/If You Wait/11 If You Wait.mp3
+<f+++++++++ London Grammar/If You Wait/12 Help.mp3
+<f+++++++++ London Grammar/If You Wait/13 Darling Are You Gonna Leave Me.mp3
+<f+++++++++ London Grammar/If You Wait/14 Help Me Lose My Mind.mp3
+<f+++++++++ London Grammar/If You Wait/15 High Life.mp3
+<f+++++++++ London Grammar/If You Wait/16 Maybe.mp3
+<f+++++++++ London Grammar/If You Wait/17 When We Were Young.mp3
+cd+++++++++ Lou Reed/
+cd+++++++++ Lou Reed/Transformer/
+<f+++++++++ Lou Reed/Transformer/01 Vicious.mp3
+<f+++++++++ Lou Reed/Transformer/02 Andy's Chest.mp3
+<f+++++++++ Lou Reed/Transformer/03 Perfect Day.mp3
+<f+++++++++ Lou Reed/Transformer/04 Hangin' 'Round.mp3
+<f+++++++++ Lou Reed/Transformer/05 Walk On The Wild Side.mp3
+<f+++++++++ Lou Reed/Transformer/06 Make Up.mp3
+<f+++++++++ Lou Reed/Transformer/07 Satellite Of Love.mp3
+<f+++++++++ Lou Reed/Transformer/08 Wagon Wheel.mp3
+<f+++++++++ Lou Reed/Transformer/09 New York Telephone Conversatio.mp3
+<f+++++++++ Lou Reed/Transformer/10 I'm So Free.mp3
+<f+++++++++ Lou Reed/Transformer/11 Goodnight Ladies.mp3
+cd+++++++++ Lupe Fiasco/
+<f+++++++++ Lupe Fiasco/00 Battle Scars.mp3
+<f+++++++++ Lupe Fiasco/00 Superstar.mp3
+<f+++++++++ Lupe Fiasco/00 The Show Goes On.mp3
+cd+++++++++ Lykke Li/
+cd+++++++++ Lykke Li/Wounded Rhymes/
+<f+++++++++ Lykke Li/Wounded Rhymes/00 I Follow Rivers.mp3
+cd+++++++++ M83/
+cd+++++++++ M83/Hurry Up_ We're Dreaming/
+<f+++++++++ M83/Hurry Up_ We're Dreaming/02 Midnight City.mp3
+<f+++++++++ M83/Hurry Up_ We're Dreaming/03 Reunion.mp3
+<f+++++++++ M83/Hurry Up_ We're Dreaming/05 Wait.mp3
+cd+++++++++ MAGIC!/
+<f+++++++++ MAGIC!/00 Rude.mp3
+cd+++++++++ MGMT/
+cd+++++++++ MGMT/Congratulations/
+<f+++++++++ MGMT/Congratulations/01 It's Working.mp3
+<f+++++++++ MGMT/Congratulations/02 Song For Dan Treacy.mp3
+<f+++++++++ MGMT/Congratulations/03 Someone's Missing.mp3
+<f+++++++++ MGMT/Congratulations/04 Flash Delerium.mp3
+<f+++++++++ MGMT/Congratulations/05 I Found A Whistle.mp3
+<f+++++++++ MGMT/Congratulations/06 Siberian Breaks.mp3
+<f+++++++++ MGMT/Congratulations/07 Brian Eno.mp3
+<f+++++++++ MGMT/Congratulations/08 Lady Dada's Nightmare.mp3
+<f+++++++++ MGMT/Congratulations/09 Congratulation.mp3
+cd+++++++++ MGMT/MGMT/
+<f+++++++++ MGMT/MGMT/00 Your Life Is A Lie.mp3
+<f+++++++++ MGMT/MGMT/01 Alien Days.mp3
+<f+++++++++ MGMT/MGMT/02 Cool Song No_ 2.mp3
+<f+++++++++ MGMT/MGMT/03 Mystery Disease.mp3
+<f+++++++++ MGMT/MGMT/04 Introspection.mp3
+<f+++++++++ MGMT/MGMT/05 Your Life Is a Lie.mp3
+<f+++++++++ MGMT/MGMT/06 A Good Sadness.mp3
+<f+++++++++ MGMT/MGMT/07 Astro-Mancy.mp3
+<f+++++++++ MGMT/MGMT/08 I Love You Too_ Death.mp3
+<f+++++++++ MGMT/MGMT/09 Plenty of Girls in the Sea.mp3
+<f+++++++++ MGMT/MGMT/10 An Orphan of Fortune.mp3
+cd+++++++++ MGMT/Oracular Spectacular/
+<f+++++++++ MGMT/Oracular Spectacular/00 Time To Pretend.mp3
+<f+++++++++ MGMT/Oracular Spectacular/01 Time to Pretend.mp3
+<f+++++++++ MGMT/Oracular Spectacular/02 Weekend Wars.mp3
+<f+++++++++ MGMT/Oracular Spectacular/03 The Youth.mp3
+<f+++++++++ MGMT/Oracular Spectacular/04 Electric Feel.mp3
+<f+++++++++ MGMT/Oracular Spectacular/05 Kids.mp3
+<f+++++++++ MGMT/Oracular Spectacular/06 4th Dimensional Transition.mp3
+<f+++++++++ MGMT/Oracular Spectacular/07 Pieces of What.mp3
+<f+++++++++ MGMT/Oracular Spectacular/08 Of Moons_ Birds & Monsters.mp3
+<f+++++++++ MGMT/Oracular Spectacular/09 The Handshake.mp3
+<f+++++++++ MGMT/Oracular Spectacular/10 Future Reflections.mp3
+cd+++++++++ Macklemore/
+cd+++++++++ Macklemore/The Heist/
+<f+++++++++ Macklemore/The Heist/00 Otherside.mp3
+<f+++++++++ Macklemore/The Heist/00 Same Love.mp3
+<f+++++++++ Macklemore/The Heist/00 Victory Lap.mp3
+<f+++++++++ Macklemore/The Heist/00 Wings.mp3
+<f+++++++++ Macklemore/The Heist/01 Can't Hold Us.mp3
+<f+++++++++ Macklemore/The Heist/01 Make That Money.mp3
+<f+++++++++ Macklemore/The Heist/01 The Town.mp3
+<f+++++++++ Macklemore/The Heist/03 Thrift Shop.mp3
+<f+++++++++ Macklemore/The Heist/06 Irish Celebration.mp3
+<f+++++++++ Macklemore/The Heist/10 And We Danced.mp3
+cd+++++++++ Mademoiselle K/
+cd+++++++++ Mademoiselle K/Ça Me Vexe/
+<f+++++++++ Mademoiselle K/Ça Me Vexe/01 Reste là.mp3
+<f+++++++++ Mademoiselle K/Ça Me Vexe/11 Jouer dehors.mp3
+cd+++++++++ Metronomy/
+cd+++++++++ Metronomy/Love Letters/
+<f+++++++++ Metronomy/Love Letters/01 The Upsetter.mp3
+<f+++++++++ Metronomy/Love Letters/02 I'm Aquarius.mp3
+<f+++++++++ Metronomy/Love Letters/03 Monstrous.mp3
+<f+++++++++ Metronomy/Love Letters/04 Love Letters.mp3
+<f+++++++++ Metronomy/Love Letters/05 Month of Sundays.mp3
+<f+++++++++ Metronomy/Love Letters/06 Boy Racers.mp3
+<f+++++++++ Metronomy/Love Letters/07 Call Me.mp3
+<f+++++++++ Metronomy/Love Letters/08 The Most Immaculate Haircut.mp3
+<f+++++++++ Metronomy/Love Letters/09 Reservoir.mp3
+<f+++++++++ Metronomy/Love Letters/10 Never Wanted.mp3
+cd+++++++++ Metronomy/Nights Out/
+<f+++++++++ Metronomy/Nights Out/01 Nights Intro.mp3
+<f+++++++++ Metronomy/Nights Out/02 The End Of You Too.mp3
+<f+++++++++ Metronomy/Nights Out/03 Radio Ladio.mp3
+<f+++++++++ Metronomy/Nights Out/04 My Heart Rate Rapid.mp3
+<f+++++++++ Metronomy/Nights Out/05 Heartbreaker.mp3
+<f+++++++++ Metronomy/Nights Out/06 On The Motorway.mp3
+<f+++++++++ Metronomy/Nights Out/07 Side 2.mp3
+<f+++++++++ Metronomy/Nights Out/08 Holiday.mp3
+<f+++++++++ Metronomy/Nights Out/09 A Thing For Me.mp3
+<f+++++++++ Metronomy/Nights Out/10 Back On The Motorway.mp3
+<f+++++++++ Metronomy/Nights Out/11 On Dancefloors.mp3
+<f+++++++++ Metronomy/Nights Out/12 Nights Outro.mp3
+cd+++++++++ Metronomy/Summer 08/
+<f+++++++++ Metronomy/Summer 08/01 Back Together.mp3
+<f+++++++++ Metronomy/Summer 08/02 Miami Logic.mp3
+<f+++++++++ Metronomy/Summer 08/03 Old Skool.mp3
+<f+++++++++ Metronomy/Summer 08/04 16 Beat.mp3
+<f+++++++++ Metronomy/Summer 08/05 Hang Me out to Dry (with Robyn.mp3
+<f+++++++++ Metronomy/Summer 08/06 Mick Slow.mp3
+<f+++++++++ Metronomy/Summer 08/07 My House.mp3
+<f+++++++++ Metronomy/Summer 08/08 Night Owl.mp3
+<f+++++++++ Metronomy/Summer 08/09 Love's Not an Obstacle.mp3
+<f+++++++++ Metronomy/Summer 08/10 Summer Jam.mp3
+cd+++++++++ Metronomy/The English Riviera/
+<f+++++++++ Metronomy/The English Riviera/01 The English Riviera.mp3
+<f+++++++++ Metronomy/The English Riviera/02 We Broke Free.mp3
+<f+++++++++ Metronomy/The English Riviera/03 Everything Goes My Way.mp3
+<f+++++++++ Metronomy/The English Riviera/04 The Look.mp3
+<f+++++++++ Metronomy/The English Riviera/05 She Wants.mp3
+<f+++++++++ Metronomy/The English Riviera/06 Trouble.mp3
+<f+++++++++ Metronomy/The English Riviera/07 The Bay.mp3
+<f+++++++++ Metronomy/The English Riviera/08 Loving Arm.mp3
+<f+++++++++ Metronomy/The English Riviera/09 Corinne.mp3
+<f+++++++++ Metronomy/The English Riviera/10 Some Written.mp3
+<f+++++++++ Metronomy/The English Riviera/11 Love Underlined.mp3
+cd+++++++++ Mikky Ekko/
+<f+++++++++ Mikky Ekko/00 Who Are You_ Really.mp3
+cd+++++++++ Milky Chance/
+cd+++++++++ Milky Chance/Blossom/
+<f+++++++++ Milky Chance/Blossom/01 Blossom.mp3
+<f+++++++++ Milky Chance/Blossom/02 Ego.mp3
+<f+++++++++ Milky Chance/Blossom/03 Firebird.mp3
+<f+++++++++ Milky Chance/Blossom/04 Doing Good.mp3
+<f+++++++++ Milky Chance/Blossom/05 Clouds.mp3
+<f+++++++++ Milky Chance/Blossom/06 Cold Blue Rain.mp3
+<f+++++++++ Milky Chance/Blossom/07 Stay.mp3
+<f+++++++++ Milky Chance/Blossom/08 Bad Things.mp3
+<f+++++++++ Milky Chance/Blossom/09 Cocoon.mp3
+<f+++++++++ Milky Chance/Blossom/10 Losing You.mp3
+<f+++++++++ Milky Chance/Blossom/11 Peripeteia.mp3
+<f+++++++++ Milky Chance/Blossom/12 Alive.mp3
+<f+++++++++ Milky Chance/Blossom/13 Piano Song.mp3
+<f+++++++++ Milky Chance/Blossom/14 Heartless.mp3
+cd+++++++++ Milky Chance/Sadnecessary/
+<f+++++++++ Milky Chance/Sadnecessary/00 Down By The River.mp3
+<f+++++++++ Milky Chance/Sadnecessary/00 Fairytale.mp3
+<f+++++++++ Milky Chance/Sadnecessary/00 Feathery.mp3
+<f+++++++++ Milky Chance/Sadnecessary/00 Flashed Junk Mind.mp3
+<f+++++++++ Milky Chance/Sadnecessary/00 Loveland.mp3
+<f+++++++++ Milky Chance/Sadnecessary/00 Stolen Dance.mp3
+<f+++++++++ Milky Chance/Sadnecessary/00 Stunner.mp3
+<f+++++++++ Milky Chance/Sadnecessary/00 Sweet Sun.mp3
+cd+++++++++ Mireille Mathieu/
+cd+++++++++ Mireille Mathieu/L' Essentiel/
+<f+++++++++ Mireille Mathieu/L' Essentiel/02 Paris en Colère.mp3
+cd+++++++++ Muse/
+cd+++++++++ Muse/Absolution Disc 1/
+<f+++++++++ Muse/Absolution Disc 1/12 Endlessly.mp3
+cd+++++++++ Muse/Black Holes And Revelations/
+<f+++++++++ Muse/Black Holes And Revelations/02 Starlight.mp3
+<f+++++++++ Muse/Black Holes And Revelations/05 Soldier's Poem.mp3
+<f+++++++++ Muse/Black Holes And Revelations/08 Exo-Politics.mp3
+<f+++++++++ Muse/Black Holes And Revelations/11 Knights Of Cydonia.mp3
+cd+++++++++ Muse/Showbiz/
+<f+++++++++ Muse/Showbiz/02 Muscle Museum.mp3
+<f+++++++++ Muse/Showbiz/03 Fillip.mp3
+<f+++++++++ Muse/Showbiz/07 Unintended.mp3
+cd+++++++++ MØ/
+cd+++++++++ MØ/No Mythologies to Follow/
+<f+++++++++ MØ/No Mythologies to Follow/01 Fire Rides.mp3
+<f+++++++++ MØ/No Mythologies to Follow/02 Maiden.mp3
+<f+++++++++ MØ/No Mythologies to Follow/03 Never Wanna Know.mp3
+<f+++++++++ MØ/No Mythologies to Follow/04 Red in the Grey.mp3
+<f+++++++++ MØ/No Mythologies to Follow/05 Pilgrim.mp3
+<f+++++++++ MØ/No Mythologies to Follow/06 Don't Wanna Dance.mp3
+<f+++++++++ MØ/No Mythologies to Follow/07 Waste of Time.mp3
+<f+++++++++ MØ/No Mythologies to Follow/08 Dust Is Gone.mp3
+<f+++++++++ MØ/No Mythologies to Follow/09 XXX 88.mp3
+<f+++++++++ MØ/No Mythologies to Follow/10 Walk This Way.mp3
+<f+++++++++ MØ/No Mythologies to Follow/11 Slow Love.mp3
+<f+++++++++ MØ/No Mythologies to Follow/12 Glass.mp3
+<f+++++++++ MØ/No Mythologies to Follow/13 No Mythologies to Follow.mp3
+<f+++++++++ MØ/No Mythologies to Follow/14 Dummy Head.mp3
+<f+++++++++ MØ/No Mythologies to Follow/15 The Sea.mp3
+<f+++++++++ MØ/No Mythologies to Follow/16 Gone and Found.mp3
+cd+++++++++ Naughty Boy/
+<f+++++++++ Naughty Boy/01 La La La.mp3
+cd+++++++++ Nekfeu/
+cd+++++++++ Nekfeu/Feu/
+<f+++++++++ Nekfeu/Feu/1-01 Martin Eden.mp3
+<f+++++++++ Nekfeu/Feu/1-02 Mon Ame.mp3
+<f+++++++++ Nekfeu/Feu/1-03 Le Horla.mp3
+<f+++++++++ Nekfeu/Feu/1-04 Nique Les Clones Part II.mp3
+<f+++++++++ Nekfeu/Feu/1-05 Reve D'avoir Des Reves.mp3
+<f+++++++++ Nekfeu/Feu/1-06 Tempete.mp3
+<f+++++++++ Nekfeu/Feu/1-07 Egérie.mp3
+<f+++++++++ Nekfeu/Feu/1-08 Reuf.mp3
+<f+++++++++ Nekfeu/Feu/1-09 La Moue Des Morts.mp3
+<f+++++++++ Nekfeu/Feu/1-10 Laisse Aller.mp3
+<f+++++++++ Nekfeu/Feu/1-11 On Verra.mp3
+<f+++++++++ Nekfeu/Feu/1-12 Ma Dope.mp3
+<f+++++++++ Nekfeu/Feu/1-13 Jeux D'ombres.mp3
+<f+++++++++ Nekfeu/Feu/1-14 Elle En Avait Envie.mp3
+<f+++++++++ Nekfeu/Feu/1-15 Princesse.mp3
+<f+++++++++ Nekfeu/Feu/1-16 Risibles Amours.mp3
+<f+++++++++ Nekfeu/Feu/1-17 Point D'interrogation.mp3
+<f+++++++++ Nekfeu/Feu/1-18 Etre Humain Feat.mp3
+<f+++++++++ Nekfeu/Feu/2-01 7_77 AM.mp3
+<f+++++++++ Nekfeu/Feu/2-02 Plume.mp3
+<f+++++++++ Nekfeu/Feu/2-03 La Ballade Du Fremont.mp3
+<f+++++++++ Nekfeu/Feu/2-04 Question D'honneur.mp3
+<f+++++++++ Nekfeu/Feu/2-05 Deux-Trois.mp3
+<f+++++++++ Nekfeu/Feu/2-06 Les Bruits De Ma Ville.mp3
+<f+++++++++ Nekfeu/Feu/2-07 Pars Avec Moi.mp3
+<f+++++++++ Nekfeu/Feu/2-08 Mal Aimé.mp3
+cd+++++++++ Neon Trees/
+<f+++++++++ Neon Trees/00 Animal.mp3
+<f+++++++++ Neon Trees/00 Sleeping With A Friend.mp3
+cd+++++++++ Nujabes/
+cd+++++++++ Nujabes/Metaphorical Music/
+<f+++++++++ Nujabes/Metaphorical Music/01 Blessing it.mp3
+<f+++++++++ Nujabes/Metaphorical Music/03 Lady Brown.mp3
+<f+++++++++ Nujabes/Metaphorical Music/04 Kumomi.mp3
+<f+++++++++ Nujabes/Metaphorical Music/05 Highs 2 Lows.mp3
+<f+++++++++ Nujabes/Metaphorical Music/06 Beat Laments The World.mp3
+<f+++++++++ Nujabes/Metaphorical Music/07 Letter from Yokosuka.mp3
+<f+++++++++ Nujabes/Metaphorical Music/08 Think Different.mp3
+<f+++++++++ Nujabes/Metaphorical Music/11 Latitude.mp3
+<f+++++++++ Nujabes/Metaphorical Music/12 F_I_L_O_.mp3
+cd+++++++++ Nujabes/Modal Soul/
+<f+++++++++ Nujabes/Modal Soul/01 Feather.mp3
+<f+++++++++ Nujabes/Modal Soul/02 Ordinary Joe.mp3
+<f+++++++++ Nujabes/Modal Soul/03 Reflection Eternal.mp3
+<f+++++++++ Nujabes/Modal Soul/04 Luv (Sic).mp3
+<f+++++++++ Nujabes/Modal Soul/06 Eclipse.mp3
+<f+++++++++ Nujabes/Modal Soul/07 The Sign.mp3
+<f+++++++++ Nujabes/Modal Soul/08 Thank You.mp3
+<f+++++++++ Nujabes/Modal Soul/09 World's End Rhapsody.mp3
+<f+++++++++ Nujabes/Modal Soul/14 Horizon.mp3
+cd+++++++++ Nujabes/Spiritual State/
+<f+++++++++ Nujabes/Spiritual State/02 Sky is Tumbling.mp3
+<f+++++++++ Nujabes/Spiritual State/03 Gone Are The Days.mp3
+<f+++++++++ Nujabes/Spiritual State/04 Spiral.mp3
+<f+++++++++ Nujabes/Spiritual State/05 City Lights.mp3
+<f+++++++++ Nujabes/Spiritual State/08 Yes.mp3
+<f+++++++++ Nujabes/Spiritual State/12 Waiting For The Clouds.mp3
+<f+++++++++ Nujabes/Spiritual State/13 Prayer.mp3
+<f+++++++++ Nujabes/Spiritual State/14 Island.mp3
+cd+++++++++ Odezenne/
+cd+++++++++ Odezenne/Au Baccara/
+<f+++++++++ Odezenne/Au Baccara/01 - Nucléaire.mp3
+<f+++++++++ Odezenne/Au Baccara/02 - Lost.mp3
+<f+++++++++ Odezenne/Au Baccara/03 - Bébé.mp3
+<f+++++++++ Odezenne/Au Baccara/04 - En L.mp3
+<f+++++++++ Odezenne/Au Baccara/05 - Bonnie.mp3
+<f+++++++++ Odezenne/Au Baccara/06 - James Blunt (feat. Moussa).mp3
+<f+++++++++ Odezenne/Au Baccara/07 - Au Baccara.mp3
+<f+++++++++ Odezenne/Au Baccara/08 - Pastel.mp3
+<f+++++++++ Odezenne/Au Baccara/09 - BNP (feat. Nabounou).mp3
+<f+++++++++ Odezenne/Au Baccara/10 - Jacques a dit.mp3
+<f+++++++++ Odezenne/Au Baccara/11 - Tony.mp3
+<f+++++++++ Odezenne/Au Baccara/index.jpeg
+cd+++++++++ Odezenne/Dolziger Str_ 2/
+<f+++++++++ Odezenne/Dolziger Str_ 2/01 Un corps à prendre.mp3
+<f+++++++++ Odezenne/Dolziger Str_ 2/02 Bouche à lèvres.mp3
+<f+++++++++ Odezenne/Dolziger Str_ 2/03 Vilaine.mp3
+<f+++++++++ Odezenne/Dolziger Str_ 2/04 Cabriolet.mp3
+<f+++++++++ Odezenne/Dolziger Str_ 2/05 Souffle le vent.mp3
+<f+++++++++ Odezenne/Dolziger Str_ 2/06 Vodka.mp3
+<f+++++++++ Odezenne/Dolziger Str_ 2/07 Boubouche.mp3
+<f+++++++++ Odezenne/Dolziger Str_ 2/08 Ciao ciao.mp3
+<f+++++++++ Odezenne/Dolziger Str_ 2/09 Satana.mp3
+<f+++++++++ Odezenne/Dolziger Str_ 2/10 On nait on vit on meurt.mp3
+cd+++++++++ Odezenne/Rien/
+<f+++++++++ Odezenne/Rien/01 Rien.mp3
+<f+++++++++ Odezenne/Rien/02 Chimpanzé.mp3
+<f+++++++++ Odezenne/Rien/03 Je veux te baiser.mp3
+<f+++++++++ Odezenne/Rien/04 Novembre.mp3
+cd+++++++++ Of Monsters And Men/
+<f+++++++++ Of Monsters And Men/00 Little Talks.mp3
+<f+++++++++ Of Monsters And Men/00 Mountain Sound.mp3
+cd+++++++++ Oh Wonder/
+cd+++++++++ Oh Wonder/Oh Wonder/
+<f+++++++++ Oh Wonder/Oh Wonder/01 Livewire.mp3
+<f+++++++++ Oh Wonder/Oh Wonder/02 Body Gold.mp3
+<f+++++++++ Oh Wonder/Oh Wonder/03 Technicolour Beat.mp3
+<f+++++++++ Oh Wonder/Oh Wonder/04 Drive.mp3
+<f+++++++++ Oh Wonder/Oh Wonder/05 Lose It.mp3
+<f+++++++++ Oh Wonder/Oh Wonder/06 Landslide.mp3
+<f+++++++++ Oh Wonder/Oh Wonder/07 White Blood.mp3
+<f+++++++++ Oh Wonder/Oh Wonder/08 Without You.mp3
+<f+++++++++ Oh Wonder/Oh Wonder/09 The Rain.mp3
+<f+++++++++ Oh Wonder/Oh Wonder/10 Dazzle.mp3
+<f+++++++++ Oh Wonder/Oh Wonder/11 All We Do.mp3
+<f+++++++++ Oh Wonder/Oh Wonder/12 Midnight Moon.mp3
+<f+++++++++ Oh Wonder/Oh Wonder/13 Shark.mp3
+<f+++++++++ Oh Wonder/Oh Wonder/14 Heart Hope.mp3
+<f+++++++++ Oh Wonder/Oh Wonder/15 Plans.mp3
+cd+++++++++ Old Man Canyon/
+cd+++++++++ Old Man Canyon/Phantom & Friends/
+<f+++++++++ Old Man Canyon/Phantom & Friends/00 Phantom & Friends.mp3
+cd+++++++++ One Republic/
+cd+++++++++ One Republic/Dreaming Out Loud/
+<f+++++++++ One Republic/Dreaming Out Loud/01 Say (All I Need).mp3
+<f+++++++++ One Republic/Dreaming Out Loud/03 Stop And Stare.mp3
+<f+++++++++ One Republic/Dreaming Out Loud/04 Apologize.mp3
+<f+++++++++ One Republic/Dreaming Out Loud/10 All We Are.mp3
+<f+++++++++ One Republic/Dreaming Out Loud/13 Dreaming Out Loud.mp3
+cd+++++++++ One Republic/Native/
+<f+++++++++ One Republic/Native/01 Counting Stars.mp3
+<f+++++++++ One Republic/Native/03 If I Lose Myself.mp3
+<f+++++++++ One Republic/Native/14 Life In Color.mp3
+cd+++++++++ One Republic/Waking Up/
+<f+++++++++ One Republic/Waking Up/02 All The Right Moves.mp3
+<f+++++++++ One Republic/Waking Up/03 Secrets.mp3
+<f+++++++++ One Republic/Waking Up/06 Good Life.mp3
+<f+++++++++ One Republic/Waking Up/11 Lullaby.mp3
+cd+++++++++ OutKast/
+cd+++++++++ OutKast/Speakerboxx_The Love Below/
+<f+++++++++ OutKast/Speakerboxx_The Love Below/01 Hey Ya.mp3
+cd+++++++++ OutKast/Stankonia/
+<f+++++++++ OutKast/Stankonia/03 Ms Jackson.mp3
+cd+++++++++ OutKast/Totally Hits 2004_ Vol_ 2/
+<f+++++++++ OutKast/Totally Hits 2004_ Vol_ 2/02 Roses.mp3
+cd+++++++++ Panic! At The Disco/
+cd+++++++++ Panic! At The Disco/Too Weird To Live_ Too Rare To/
+<f+++++++++ Panic! At The Disco/Too Weird To Live_ Too Rare To/00 Girls_Girls_Boy.mp3
+<f+++++++++ Panic! At The Disco/Too Weird To Live_ Too Rare To/00 I Write Sins Not Tragedy.mp3
+<f+++++++++ Panic! At The Disco/Too Weird To Live_ Too Rare To/00 Nicotine.mp3
+<f+++++++++ Panic! At The Disco/Too Weird To Live_ Too Rare To/00 This Is Gospel.mp3
+<f+++++++++ Panic! At The Disco/Too Weird To Live_ Too Rare To/00 Vegas Lights.mp3
+<f+++++++++ Panic! At The Disco/Too Weird To Live_ Too Rare To/01 Miss Jackson.mp3
+cd+++++++++ Parov Stelar/
+<f+++++++++ Parov Stelar/00 Coco.mp3
+<f+++++++++ Parov Stelar/00 Joseph.mp3
+<f+++++++++ Parov Stelar/00 L'Etoile.mp3
+<f+++++++++ Parov Stelar/00 Nobody's Fool.mp3
+<f+++++++++ Parov Stelar/00 Wintersun.mp3
+<f+++++++++ Parov Stelar/01 Kiss Kiss.mp3
+<f+++++++++ Parov Stelar/02 Hurt.mp3
+<f+++++++++ Parov Stelar/06 Lost In Amsterdam.mp3
+<f+++++++++ Parov Stelar/1-07 Lets Roll.mp3
+cd+++++++++ Parov Stelar/Seven and Storm/
+<f+++++++++ Parov Stelar/Seven and Storm/02 Warm Inside.mp3
+cd+++++++++ Parov Stelar/That Swing/
+<f+++++++++ Parov Stelar/That Swing/01 Spygame.mp3
+<f+++++++++ Parov Stelar/That Swing/02 Love 3_25.mp3
+<f+++++++++ Parov Stelar/That Swing/03 Kisskiss.mp3
+<f+++++++++ Parov Stelar/That Swing/04 Matilda.mp3
+<f+++++++++ Parov Stelar/That Swing/05 Charleston Butterfly.mp3
+<f+++++++++ Parov Stelar/That Swing/07 Faith.mp3
+<f+++++++++ Parov Stelar/That Swing/08 Wanna Get.mp3
+<f+++++++++ Parov Stelar/That Swing/09 The Flame.mp3
+<f+++++++++ Parov Stelar/That Swing/10 Hotel Axos.mp3
+<f+++++++++ Parov Stelar/That Swing/11 Chambermaid Swing.mp3
+<f+++++++++ Parov Stelar/That Swing/12 Autumn Beasts.mp3
+<f+++++++++ Parov Stelar/That Swing/13 For All We Know.mp3
+<f+++++++++ Parov Stelar/That Swing/14 A Night in Torino.mp3
+<f+++++++++ Parov Stelar/That Swing/15 Sugar.mp3
+<f+++++++++ Parov Stelar/That Swing/17 Nowhere.mp3
+cd+++++++++ Parov Stelar/The Art of Sampling/
+<f+++++++++ Parov Stelar/The Art of Sampling/01 Keep On Dancing.mp3
+<f+++++++++ Parov Stelar/The Art of Sampling/02 Josephine.mp3
+<f+++++++++ Parov Stelar/The Art of Sampling/03 Heavens Radio.mp3
+<f+++++++++ Parov Stelar/The Art of Sampling/04 She Ain't Got No Money.mp3
+<f+++++++++ Parov Stelar/The Art of Sampling/05 All Night.mp3
+<f+++++++++ Parov Stelar/The Art of Sampling/06 Catgroove.mp3
+<f+++++++++ Parov Stelar/The Art of Sampling/07 The Phantom.mp3
+<f+++++++++ Parov Stelar/The Art of Sampling/08 Libella Swing.mp3
+<f+++++++++ Parov Stelar/The Art of Sampling/09 The Modjo Radio Gang.mp3
+<f+++++++++ Parov Stelar/The Art of Sampling/10 Love Remix.mp3
+<f+++++++++ Parov Stelar/The Art of Sampling/13 Shine.mp3
+<f+++++++++ Parov Stelar/The Art of Sampling/14 Jimmy's Gang.mp3
+<f+++++++++ Parov Stelar/The Art of Sampling/15 Love Is the Drug.mp3
+<f+++++++++ Parov Stelar/The Art of Sampling/16 More and More.mp3
+<f+++++++++ Parov Stelar/The Art of Sampling/17 Dark Paradise.mp3
+<f+++++++++ Parov Stelar/The Art of Sampling/19 Oh Yeah.mp3
+<f+++++++++ Parov Stelar/The Art of Sampling/21 The Snake.mp3
+<f+++++++++ Parov Stelar/The Art of Sampling/22 This Game.mp3
+<f+++++++++ Parov Stelar/The Art of Sampling/23 The Fog.mp3
+cd+++++++++ Parov Stelar/The Demon Diaries (Deluxe Edit/
+<f+++++++++ Parov Stelar/The Demon Diaries (Deluxe Edit/1-01 Demon Dance.mp3
+<f+++++++++ Parov Stelar/The Demon Diaries (Deluxe Edit/1-03 Hooked on You.mp3
+<f+++++++++ Parov Stelar/The Demon Diaries (Deluxe Edit/1-04 Clap Your Hands.mp3
+<f+++++++++ Parov Stelar/The Demon Diaries (Deluxe Edit/1-05 Hit Me Like a Drum.mp3
+<f+++++++++ Parov Stelar/The Demon Diaries (Deluxe Edit/1-06 The Green Frog.mp3
+<f+++++++++ Parov Stelar/The Demon Diaries (Deluxe Edit/1-07 I Need L_O_V_E_.mp3
+<f+++++++++ Parov Stelar/The Demon Diaries (Deluxe Edit/1-08 Djangos Revenge.mp3
+<f+++++++++ Parov Stelar/The Demon Diaries (Deluxe Edit/1-09 Gin Tonic.mp3
+<f+++++++++ Parov Stelar/The Demon Diaries (Deluxe Edit/1-10 Don'T Mean A Thing.mp3
+<f+++++++++ Parov Stelar/The Demon Diaries (Deluxe Edit/1-12 Berlin Shuffle.mp3
+<f+++++++++ Parov Stelar/The Demon Diaries (Deluxe Edit/1-13 Hit Me Like a Drum.mp3
+<f+++++++++ Parov Stelar/The Demon Diaries (Deluxe Edit/2-14 Six Feet Underground.mp3
+<f+++++++++ Parov Stelar/The Demon Diaries (Deluxe Edit/2-15 The Sun.mp3
+<f+++++++++ Parov Stelar/The Demon Diaries (Deluxe Edit/2-16 Summertime.mp3
+<f+++++++++ Parov Stelar/The Demon Diaries (Deluxe Edit/2-17 Walk Away.mp3
+<f+++++++++ Parov Stelar/The Demon Diaries (Deluxe Edit/2-18 Josephine.mp3
+<f+++++++++ Parov Stelar/The Demon Diaries (Deluxe Edit/2-19 Magenta Rising.mp3
+<f+++++++++ Parov Stelar/The Demon Diaries (Deluxe Edit/2-20 Golden Arrow.mp3
+<f+++++++++ Parov Stelar/The Demon Diaries (Deluxe Edit/2-21 Don't Believe What They Say.mp3
+<f+++++++++ Parov Stelar/The Demon Diaries (Deluxe Edit/2-22 The Sea.mp3
+<f+++++++++ Parov Stelar/The Demon Diaries (Deluxe Edit/2-23 Keep This Fire Burning.mp3
+<f+++++++++ Parov Stelar/The Demon Diaries (Deluxe Edit/2-24 The Lonely Trumpet.mp3
+cd+++++++++ Passenger/
+<f+++++++++ Passenger/00 Golden Leaves.mp3
+<f+++++++++ Passenger/00 The Wrong Direction.mp3
+<f+++++++++ Passenger/01 Let Her Go.mp3
+cd+++++++++ Passion Pit/
+cd+++++++++ Passion Pit/Gossamer/
+<f+++++++++ Passion Pit/Gossamer/00 Take A Walk.mp3
+<f+++++++++ Passion Pit/Gossamer/03 Carried Away.mp3
+cd+++++++++ Pegase/
+<f+++++++++ Pegase/00 Out Of Range.mp3
+cd+++++++++ Petit Biscuit/
+cd+++++++++ Petit Biscuit/Petit Biscuit/
+<f+++++++++ Petit Biscuit/Petit Biscuit/01 Alone.mp3
+<f+++++++++ Petit Biscuit/Petit Biscuit/01 Memories.mp3
+<f+++++++++ Petit Biscuit/Petit Biscuit/01 Midnight Sky.mp3
+<f+++++++++ Petit Biscuit/Petit Biscuit/01 Oceans.mp3
+<f+++++++++ Petit Biscuit/Petit Biscuit/01 Once Again.mp3
+<f+++++++++ Petit Biscuit/Petit Biscuit/01 Palms.mp3
+<f+++++++++ Petit Biscuit/Petit Biscuit/01 Sunset Lover.mp3
+<f+++++++++ Petit Biscuit/Petit Biscuit/03 Jungle.mp3
+<f+++++++++ Petit Biscuit/Petit Biscuit/03 Night Trouble.mp3
+<f+++++++++ Petit Biscuit/Petit Biscuit/04 Full Moon.mp3
+<f+++++++++ Petit Biscuit/Petit Biscuit/05 Iceland.mp3
+<f+++++++++ Petit Biscuit/Petit Biscuit/07 You.mp3
+cd+++++++++ Phoenix/
+cd+++++++++ Phoenix/Alphabetical/
+<f+++++++++ Phoenix/Alphabetical/01 Everything Is Everything.mp3
+<f+++++++++ Phoenix/Alphabetical/02 Run Run Run.mp3
+<f+++++++++ Phoenix/Alphabetical/03 I'm an Actor.mp3
+<f+++++++++ Phoenix/Alphabetical/04 Love for Granted.mp3
+<f+++++++++ Phoenix/Alphabetical/05 Victim of the Crime.mp3
+<f+++++++++ Phoenix/Alphabetical/06 (You Can't Blame It On) Anybod.mp3
+<f+++++++++ Phoenix/Alphabetical/07 Congratulations.mp3
+<f+++++++++ Phoenix/Alphabetical/08 If It's Not With You.mp3
+<f+++++++++ Phoenix/Alphabetical/09 Holdin' on Together.mp3
+<f+++++++++ Phoenix/Alphabetical/10 Alphabetical.mp3
+cd+++++++++ Phoenix/Bankrupt!/
+<f+++++++++ Phoenix/Bankrupt!/01 Entertainment.mp3
+<f+++++++++ Phoenix/Bankrupt!/02 The Real Thing.mp3
+<f+++++++++ Phoenix/Bankrupt!/03 S_O_S_ In Bel-Air.mp3
+<f+++++++++ Phoenix/Bankrupt!/04 Trying To Be Cool.mp3
+<f+++++++++ Phoenix/Bankrupt!/05 Bankrupt!.mp3
+<f+++++++++ Phoenix/Bankrupt!/06 Drakkar Noir.mp3
+<f+++++++++ Phoenix/Bankrupt!/07 Chloroform.mp3
+<f+++++++++ Phoenix/Bankrupt!/08 Don't.mp3
+<f+++++++++ Phoenix/Bankrupt!/09 Bourgeois.mp3
+<f+++++++++ Phoenix/Bankrupt!/10 Oblique City.mp3
+cd+++++++++ Phoenix/It's Never Been Like That/
+<f+++++++++ Phoenix/It's Never Been Like That/01 Napoleon Says.mp3
+<f+++++++++ Phoenix/It's Never Been Like That/02 Consolation Prizes.mp3
+<f+++++++++ Phoenix/It's Never Been Like That/03 Rally.mp3
+<f+++++++++ Phoenix/It's Never Been Like That/04 Long Distance Call.mp3
+<f+++++++++ Phoenix/It's Never Been Like That/05 One Time Too Many.mp3
+<f+++++++++ Phoenix/It's Never Been Like That/06 Lost and Found.mp3
+<f+++++++++ Phoenix/It's Never Been Like That/07 Courtesy Laughs.mp3
+<f+++++++++ Phoenix/It's Never Been Like That/08 North.mp3
+<f+++++++++ Phoenix/It's Never Been Like That/09 Sometimes in the Fall.mp3
+<f+++++++++ Phoenix/It's Never Been Like That/10 Second to None.mp3
+cd+++++++++ Phoenix/United/
+<f+++++++++ Phoenix/United/01 School's Rules.mp3
+<f+++++++++ Phoenix/United/02 Too Young.mp3
+<f+++++++++ Phoenix/United/03 Honeymoon.mp3
+<f+++++++++ Phoenix/United/04 If I Ever Feel Better.mp3
+<f+++++++++ Phoenix/United/05 Party Time.mp3
+<f+++++++++ Phoenix/United/06 On Fire.mp3
+<f+++++++++ Phoenix/United/07 Embuscade.mp3
+<f+++++++++ Phoenix/United/08 Summer Days.mp3
+<f+++++++++ Phoenix/United/09 Funky Squaredance_ Pts_ 1-3.mp3
+<f+++++++++ Phoenix/United/10 Definitive Breaks.mp3
+cd+++++++++ Phoenix/Wolfgang Amadeus Phoenix/
+<f+++++++++ Phoenix/Wolfgang Amadeus Phoenix/00 Everything Is Everything.mp3
+<f+++++++++ Phoenix/Wolfgang Amadeus Phoenix/00 Trying To Be Cool.mp3
+<f+++++++++ Phoenix/Wolfgang Amadeus Phoenix/01 Lisztomania.mp3
+<f+++++++++ Phoenix/Wolfgang Amadeus Phoenix/02 1901.mp3
+<f+++++++++ Phoenix/Wolfgang Amadeus Phoenix/03 Fences.mp3
+<f+++++++++ Phoenix/Wolfgang Amadeus Phoenix/04 Love Like a Sunset.mp3
+<f+++++++++ Phoenix/Wolfgang Amadeus Phoenix/05 Lasso.mp3
+<f+++++++++ Phoenix/Wolfgang Amadeus Phoenix/06 Rome.mp3
+<f+++++++++ Phoenix/Wolfgang Amadeus Phoenix/07 Countdown.mp3
+<f+++++++++ Phoenix/Wolfgang Amadeus Phoenix/08 Girlfriend.mp3
+<f+++++++++ Phoenix/Wolfgang Amadeus Phoenix/09 Armistice.mp3
+cd+++++++++ Pony Pony Run Run/
+cd+++++++++ Pony Pony Run Run/Pony Pony Run Run/
+<f+++++++++ Pony Pony Run Run/Pony Pony Run Run/00 Easy Cash.mp3
+cd+++++++++ Pony Pony Run Run/You Need Pony Pony Run Run/
+<f+++++++++ Pony Pony Run Run/You Need Pony Pony Run Run/03 Hey You.mp3
+cd+++++++++ Pony Pony Run Run/You need Pony Pony Run Run/
+<f+++++++++ Pony Pony Run Run/You need Pony Pony Run Run/02 Walking on a line.mp3
+cd+++++++++ R_ E_ M_/
+cd+++++++++ R_ E_ M_/Out of Time/
+<f+++++++++ R_ E_ M_/Out of Time/02 Losing My Religion.mp3
+cd+++++++++ Radiohead/
+cd+++++++++ Radiohead/A Moon Shaped Pool/
+<f+++++++++ Radiohead/A Moon Shaped Pool/01 Burn The Witch.mp3
+<f+++++++++ Radiohead/A Moon Shaped Pool/02 Daydreaming.mp3
+<f+++++++++ Radiohead/A Moon Shaped Pool/03 Decks Dark.mp3
+<f+++++++++ Radiohead/A Moon Shaped Pool/04 Desert Island Disk.mp3
+<f+++++++++ Radiohead/A Moon Shaped Pool/05 Ful Stop.mp3
+<f+++++++++ Radiohead/A Moon Shaped Pool/06 Glass Eyes.mp3
+<f+++++++++ Radiohead/A Moon Shaped Pool/07 Identikit.mp3
+<f+++++++++ Radiohead/A Moon Shaped Pool/08 The Numbers.mp3
+<f+++++++++ Radiohead/A Moon Shaped Pool/09 Present Tense.mp3
+<f+++++++++ Radiohead/A Moon Shaped Pool/10 Tinker Tailor Soldier Sailor R.mp3
+<f+++++++++ Radiohead/A Moon Shaped Pool/11 True Love Waits.mp3
+cd+++++++++ Radiohead/Hail to the Thief/
+<f+++++++++ Radiohead/Hail to the Thief/02 Sit Down_ Stand up.mp3
+<f+++++++++ Radiohead/Hail to the Thief/03 Sail to the Moon.mp3
+<f+++++++++ Radiohead/Hail to the Thief/04 Backdrifts.mp3
+<f+++++++++ Radiohead/Hail to the Thief/05 Go to Sleep.mp3
+<f+++++++++ Radiohead/Hail to the Thief/06 Where I End and You Begin.mp3
+<f+++++++++ Radiohead/Hail to the Thief/07 We Suck Young Blood.mp3
+<f+++++++++ Radiohead/Hail to the Thief/08 The Gloaming.mp3
+<f+++++++++ Radiohead/Hail to the Thief/09 There There.mp3
+<f+++++++++ Radiohead/Hail to the Thief/10 I Will.mp3
+<f+++++++++ Radiohead/Hail to the Thief/11 A Punchup at a Wedding.mp3
+<f+++++++++ Radiohead/Hail to the Thief/12 Myxomatosis.mp3
+<f+++++++++ Radiohead/Hail to the Thief/13 Scatterbrain.mp3
+<f+++++++++ Radiohead/Hail to the Thief/14 A Wolf at the Door.mp3
+cd+++++++++ Radiohead/OK Computer/
+<f+++++++++ Radiohead/OK Computer/01 Airbag.mp3
+<f+++++++++ Radiohead/OK Computer/02 Paranoid Android.mp3
+<f+++++++++ Radiohead/OK Computer/03 Subterranean Homesick Alien.mp3
+<f+++++++++ Radiohead/OK Computer/04 Exit Music (For A Film).mp3
+<f+++++++++ Radiohead/OK Computer/05 Let Down.mp3
+<f+++++++++ Radiohead/OK Computer/06 Karma Police.mp3
+<f+++++++++ Radiohead/OK Computer/07 Fitter Happier.mp3
+<f+++++++++ Radiohead/OK Computer/08 Electioneering.mp3
+<f+++++++++ Radiohead/OK Computer/09 Climbing Up The Walls.mp3
+<f+++++++++ Radiohead/OK Computer/10 No Surprises.mp3
+<f+++++++++ Radiohead/OK Computer/11 Lucky.mp3
+<f+++++++++ Radiohead/OK Computer/12 The Tourist.mp3
+cd+++++++++ Radiohead/The King Of Limbs/
+<f+++++++++ Radiohead/The King Of Limbs/01 Bloom.mp3
+<f+++++++++ Radiohead/The King Of Limbs/02 Morning Mr Magpie.mp3
+<f+++++++++ Radiohead/The King Of Limbs/03 Little By Little.mp3
+<f+++++++++ Radiohead/The King Of Limbs/04 Feral.mp3
+<f+++++++++ Radiohead/The King Of Limbs/05 Lotus Flower.mp3
+<f+++++++++ Radiohead/The King Of Limbs/06 Codex.mp3
+<f+++++++++ Radiohead/The King Of Limbs/07 Give Up The Ghost.mp3
+<f+++++++++ Radiohead/The King Of Limbs/08 Separator.mp3
+cd+++++++++ Ratatat/
+cd+++++++++ Ratatat/9 Beats/
+<f+++++++++ Ratatat/9 Beats/01 One.mp3
+<f+++++++++ Ratatat/9 Beats/02 Two.mp3
+<f+++++++++ Ratatat/9 Beats/03 Three.mp3
+<f+++++++++ Ratatat/9 Beats/04 Four.mp3
+<f+++++++++ Ratatat/9 Beats/05 Five.mp3
+<f+++++++++ Ratatat/9 Beats/06 Six.mp3
+<f+++++++++ Ratatat/9 Beats/07 Seven.mp3
+<f+++++++++ Ratatat/9 Beats/08 Eight.mp3
+<f+++++++++ Ratatat/9 Beats/09 Nine.mp3
+cd+++++++++ Ratatat/Classics/
+<f+++++++++ Ratatat/Classics/01 Montanita.mp3
+<f+++++++++ Ratatat/Classics/02 Lex.mp3
+<f+++++++++ Ratatat/Classics/03 Gettysburg.mp3
+<f+++++++++ Ratatat/Classics/04 Wildcat.mp3
+<f+++++++++ Ratatat/Classics/05 Tropicana.mp3
+<f+++++++++ Ratatat/Classics/06 Loud Pipes.mp3
+<f+++++++++ Ratatat/Classics/07 Kennedy.mp3
+<f+++++++++ Ratatat/Classics/08 Swisha.mp3
+<f+++++++++ Ratatat/Classics/09 Nostrand.mp3
+<f+++++++++ Ratatat/Classics/10 Tacobel Canon.mp3
+cd+++++++++ Ratatat/LP3/
+<f+++++++++ Ratatat/LP3/01 Shiller.mp3
+<f+++++++++ Ratatat/LP3/02 Falcon Jab.mp3
+<f+++++++++ Ratatat/LP3/03 Mi Viejo.mp3
+<f+++++++++ Ratatat/LP3/04 Mirando.mp3
+<f+++++++++ Ratatat/LP3/05 Flynn.mp3
+<f+++++++++ Ratatat/LP3/06 Bird Priest.mp3
+<f+++++++++ Ratatat/LP3/07 Shempi.mp3
+<f+++++++++ Ratatat/LP3/08 Imperials.mp3
+<f+++++++++ Ratatat/LP3/09 Dura.mp3
+<f+++++++++ Ratatat/LP3/10 Bruleé.mp3
+<f+++++++++ Ratatat/LP3/11 Mumtaz Khan.mp3
+<f+++++++++ Ratatat/LP3/12 Gipsy Threat.mp3
+<f+++++++++ Ratatat/LP3/13 Black Heroes.mp3
+cd+++++++++ Ratatat/LP4/
+<f+++++++++ Ratatat/LP4/06 Mandy.mp3
+<f+++++++++ Ratatat/LP4/09 Sunblocks.mp3
+cd+++++++++ Ratatat/Magnifique/
+<f+++++++++ Ratatat/Magnifique/02 Cream On Chrome.mp3
+<f+++++++++ Ratatat/Magnifique/03 Magnifique.mp3
+<f+++++++++ Ratatat/Magnifique/04 Abrasive.mp3
+<f+++++++++ Ratatat/Magnifique/05 Countach.mp3
+<f+++++++++ Ratatat/Magnifique/06 Drift.mp3
+<f+++++++++ Ratatat/Magnifique/07 Pricks of Brightness.mp3
+<f+++++++++ Ratatat/Magnifique/09 Cold Fingers.mp3
+<f+++++++++ Ratatat/Magnifique/10 Supreme.mp3
+<f+++++++++ Ratatat/Magnifique/11 Rome.mp3
+<f+++++++++ Ratatat/Magnifique/12 Primetime.mp3
+<f+++++++++ Ratatat/Magnifique/13 I Will Return.mp3
+cd+++++++++ Ratatat/Ratatat Remixes Vol_ 1/
+<f+++++++++ Ratatat/Ratatat Remixes Vol_ 1/01 Brooklyn Zoo & Ratatat - Intro.mp3
+<f+++++++++ Ratatat/Ratatat Remixes Vol_ 1/02 Beanie Sigel & Dirt Mcgirt - W.mp3
+<f+++++++++ Ratatat/Ratatat Remixes Vol_ 1/03 Missy Elliot - Hot.mp3
+<f+++++++++ Ratatat/Ratatat Remixes Vol_ 1/04 Raekwon - Smith Bros_.mp3
+<f+++++++++ Ratatat/Ratatat Remixes Vol_ 1/05 Kanye West - Get Em High.mp3
+<f+++++++++ Ratatat/Ratatat Remixes Vol_ 1/06 G-Unit - Stunt 101.mp3
+<f+++++++++ Ratatat/Ratatat Remixes Vol_ 1/07 Dizzee Rascal - Fix Up.mp3
+<f+++++++++ Ratatat/Ratatat Remixes Vol_ 1/08 Method Man & Buddah Monk Of Br.mp3
+<f+++++++++ Ratatat/Ratatat Remixes Vol_ 1/09 Lazer Life Of Brooklyn Zoo - F.mp3
+<f+++++++++ Ratatat/Ratatat Remixes Vol_ 1/10 Raekwon & Ghostface - Cutting.mp3
+<f+++++++++ Ratatat/Ratatat Remixes Vol_ 1/11 L_O_X - Dirty Riders.mp3
+<f+++++++++ Ratatat/Ratatat Remixes Vol_ 1/12 Jay-Z - Sunshine.mp3
+<f+++++++++ Ratatat/Ratatat Remixes Vol_ 1/13 Missy Elliot - Wake Up.mp3
+<f+++++++++ Ratatat/Ratatat Remixes Vol_ 1/14 Ghostface Killah & Jadakiss -.mp3
+cd+++++++++ Ratatat/Ratatat Remixes Vol_ 2/
+<f+++++++++ Ratatat/Ratatat Remixes Vol_ 2/01 Stomp.mp3
+<f+++++++++ Ratatat/Ratatat Remixes Vol_ 2/02 Party And Bullshit.mp3
+<f+++++++++ Ratatat/Ratatat Remixes Vol_ 2/03 Allure.mp3
+<f+++++++++ Ratatat/Ratatat Remixes Vol_ 2/04 The Mule.mp3
+<f+++++++++ Ratatat/Ratatat Remixes Vol_ 2/05 Shorty Wanna Ride.mp3
+<f+++++++++ Ratatat/Ratatat Remixes Vol_ 2/06 Glock Nines.mp3
+<f+++++++++ Ratatat/Ratatat Remixes Vol_ 2/07 Despot Freestyle.mp3
+<f+++++++++ Ratatat/Ratatat Remixes Vol_ 2/08 Alright.mp3
+<f+++++++++ Ratatat/Ratatat Remixes Vol_ 2/09 Three Kings.mp3
+<f+++++++++ Ratatat/Ratatat Remixes Vol_ 2/10 Over Here.mp3
+<f+++++++++ Ratatat/Ratatat Remixes Vol_ 2/11 Diamonds.mp3
+<f+++++++++ Ratatat/Ratatat Remixes Vol_ 2/12 Beans Freestyle.mp3
+<f+++++++++ Ratatat/Ratatat Remixes Vol_ 2/13 Dead Wrong.mp3
+<f+++++++++ Ratatat/Ratatat Remixes Vol_ 2/14 We Gon' RIde.mp3
+cd+++++++++ Ratatat/Ratatat/
+<f+++++++++ Ratatat/Ratatat/01 Seventeen Years.mp3
+<f+++++++++ Ratatat/Ratatat/02 El Pico.mp3
+<f+++++++++ Ratatat/Ratatat/03 Crips.mp3
+<f+++++++++ Ratatat/Ratatat/04 Desert Eagle.mp3
+<f+++++++++ Ratatat/Ratatat/05 Everest.mp3
+<f+++++++++ Ratatat/Ratatat/06 Bustelo.mp3
+<f+++++++++ Ratatat/Ratatat/07 Breaking Away.mp3
+<f+++++++++ Ratatat/Ratatat/08 Lapland.mp3
+<f+++++++++ Ratatat/Ratatat/09 Germany To Germany.mp3
+<f+++++++++ Ratatat/Ratatat/10 Spanish Armada.mp3
+<f+++++++++ Ratatat/Ratatat/11 Cherry.mp3
+cd+++++++++ Red Hot Chili Peppers/
+cd+++++++++ Red Hot Chili Peppers/Greatest Hits/
+<f+++++++++ Red Hot Chili Peppers/Greatest Hits/01 Under The Bridge.mp3
+<f+++++++++ Red Hot Chili Peppers/Greatest Hits/02 Give It Away.mp3
+<f+++++++++ Red Hot Chili Peppers/Greatest Hits/03 Californication.mp3
+<f+++++++++ Red Hot Chili Peppers/Greatest Hits/04 Scar Tissue.mp3
+<f+++++++++ Red Hot Chili Peppers/Greatest Hits/05 Soul To Squeeze.mp3
+<f+++++++++ Red Hot Chili Peppers/Greatest Hits/06 Otherside.mp3
+<f+++++++++ Red Hot Chili Peppers/Greatest Hits/08 By The Way.mp3
+<f+++++++++ Red Hot Chili Peppers/Greatest Hits/09 Parallel Universe.mp3
+<f+++++++++ Red Hot Chili Peppers/Greatest Hits/10 Breaking The Girl.mp3
+<f+++++++++ Red Hot Chili Peppers/Greatest Hits/11 My Friends.mp3
+<f+++++++++ Red Hot Chili Peppers/Greatest Hits/13 Universally Speaking.mp3
+<f+++++++++ Red Hot Chili Peppers/Greatest Hits/14 Road Trippin.mp3
+<f+++++++++ Red Hot Chili Peppers/Greatest Hits/15 Fortune Faded.mp3
+<f+++++++++ Red Hot Chili Peppers/Greatest Hits/16 Save The Population.mp3
+cd+++++++++ Red Hot Chili Peppers/Stadium Arcadium/
+<f+++++++++ Red Hot Chili Peppers/Stadium Arcadium/01 Dani California.mp3
+<f+++++++++ Red Hot Chili Peppers/Stadium Arcadium/02 Snow ((Hey Oh)).mp3
+<f+++++++++ Red Hot Chili Peppers/Stadium Arcadium/10 Especially In Michigan.mp3
+<f+++++++++ Red Hot Chili Peppers/Stadium Arcadium/2-01 Desecration Smile.mp3
+cd+++++++++ Renaud/
+<f+++++++++ Renaud/00 Dès que le vent soufflera.mp3
+<f+++++++++ Renaud/06 Mistral gagnant.mp3
+cd+++++++++ Rilès/
+cd+++++++++ Rilès/Rilèsundayz/
+<f+++++++++ Rilès/Rilèsundayz/00 A Happy New Year.mp3
+<f+++++++++ Rilès/Rilèsundayz/00 AWAY.mp3
+<f+++++++++ Rilès/Rilèsundayz/00 After the Darkness.mp3
+<f+++++++++ Rilès/Rilèsundayz/00 BROTHERS.mp3
+<f+++++++++ Rilès/Rilèsundayz/00 E KNOWS.mp3
+<f+++++++++ Rilès/Rilèsundayz/00 GTFO.mp3
+<f+++++++++ Rilès/Rilèsundayz/00 I DO IT.mp3
+<f+++++++++ Rilès/Rilèsundayz/00 Should I.mp3
+<f+++++++++ Rilès/Rilèsundayz/00 Thank God.mp3
+<f+++++++++ Rilès/Rilèsundayz/00 U Like.mp3
+cd+++++++++ Roots Manuva/
+<f+++++++++ Roots Manuva/00 Stolen Youth.mp3
+cd+++++++++ Rufus Wainwright/
+<f+++++++++ Rufus Wainwright/00 Going To A Town.mp3
+cd+++++++++ Saez/
+cd+++++++++ Saez/Jours Etranges/
+<f+++++++++ Saez/Jours Etranges/01 Jeune et con.mp3
+cd+++++++++ Schoolboy Q/
+<f+++++++++ Schoolboy Q/00 Man Of The Year.mp3
+cd+++++++++ Skip The Use/
+cd+++++++++ Skip The Use/Can Be Late/
+<f+++++++++ Skip The Use/Can Be Late/00 Cup Of Coffee.mp3
+<f+++++++++ Skip The Use/Can Be Late/00 Ghost.mp3
+<f+++++++++ Skip The Use/Can Be Late/00 Give Me.mp3
+<f+++++++++ Skip The Use/Can Be Late/00 Nameless World.mp3
+<f+++++++++ Skip The Use/Can Be Late/00 The Story Of Gods And Men.mp3
+cd+++++++++ Slow Magic/
+<f+++++++++ Slow Magic/00 Waited 4 U.mp3
+cd+++++++++ Smash Mouth/
+cd+++++++++ Smash Mouth/Astro Lounge/
+<f+++++++++ Smash Mouth/Astro Lounge/05 All Star.mp3
+cd+++++++++ Son Lux/
+cd+++++++++ Son Lux/Lanterns/
+<f+++++++++ Son Lux/Lanterns/01 Alternate World.mp3
+<f+++++++++ Son Lux/Lanterns/02 Lost It To Trying.mp3
+<f+++++++++ Son Lux/Lanterns/03 Ransom.mp3
+<f+++++++++ Son Lux/Lanterns/04 Easy.mp3
+<f+++++++++ Son Lux/Lanterns/05 No Crimes.mp3
+<f+++++++++ Son Lux/Lanterns/06 Pyre.mp3
+<f+++++++++ Son Lux/Lanterns/07 Enough Of Our Machines.mp3
+<f+++++++++ Son Lux/Lanterns/08 Plan The Escape.mp3
+<f+++++++++ Son Lux/Lanterns/09 Lanterns Lit.mp3
+<f+++++++++ Son Lux/Lanterns/10 Lost It To Trying (Mouths Only.mp3
+cd+++++++++ Starlion/
+<f+++++++++ Starlion/00 Petit Homme.mp3
+cd+++++++++ Supertramp/
+cd+++++++++ Supertramp/The Very Best Of Supertramp/
+<f+++++++++ Supertramp/The Very Best Of Supertramp/02 Goodbye Stranger.mp3
+<f+++++++++ Supertramp/The Very Best Of Supertramp/03 The Logical Song.mp3
+<f+++++++++ Supertramp/The Very Best Of Supertramp/04 Bloody Well Right.mp3
+<f+++++++++ Supertramp/The Very Best Of Supertramp/05 Breakfast In America.mp3
+<f+++++++++ Supertramp/The Very Best Of Supertramp/11 Hide In Your Shell.mp3
+<f+++++++++ Supertramp/The Very Best Of Supertramp/13 Give A Little Bit.mp3
+cd+++++++++ Syd Matters/
+cd+++++++++ Syd Matters/Brotherocean/
+<f+++++++++ Syd Matters/Brotherocean/00 Hi Life.mp3
+cd+++++++++ Tame Impala/
+cd+++++++++ Tame Impala/Currents/
+<f+++++++++ Tame Impala/Currents/01 Let It Happen.mp3
+<f+++++++++ Tame Impala/Currents/02 Nangs.mp3
+<f+++++++++ Tame Impala/Currents/03 The Moment.mp3
+<f+++++++++ Tame Impala/Currents/04 Yes I'm Changing.mp3
+<f+++++++++ Tame Impala/Currents/05 Eventually.mp3
+<f+++++++++ Tame Impala/Currents/06 Gossip.mp3
+<f+++++++++ Tame Impala/Currents/07 The Less I Know the Better.mp3
+<f+++++++++ Tame Impala/Currents/08 Past Life.mp3
+<f+++++++++ Tame Impala/Currents/09 Disciples.mp3
+<f+++++++++ Tame Impala/Currents/10 'Cause I'm a Man.mp3
+<f+++++++++ Tame Impala/Currents/11 Reality in Motion.mp3
+<f+++++++++ Tame Impala/Currents/12 Love_Paranoia.mp3
+<f+++++++++ Tame Impala/Currents/13 New Person_ Same Old Mistakes.mp3
+cd+++++++++ Tame Impala/Lonerism/
+<f+++++++++ Tame Impala/Lonerism/07 Feels Like We Only Go Backward.mp3
+cd+++++++++ The Animals/
+cd+++++++++ The Animals/Retrospective/
+<f+++++++++ The Animals/Retrospective/01 House of the rising sun.mp3
+cd+++++++++ The Black Keys/
+cd+++++++++ The Black Keys/Lonely Boy/
+<f+++++++++ The Black Keys/Lonely Boy/00 Gold On The Ceiling.mp3
+<f+++++++++ The Black Keys/Lonely Boy/01 Lonely Boy.mp3
+cd+++++++++ The Black Keys/Turn Blue/
+<f+++++++++ The Black Keys/Turn Blue/01 Weight of Love.mp3
+<f+++++++++ The Black Keys/Turn Blue/02 In Time.mp3
+<f+++++++++ The Black Keys/Turn Blue/03 Turn Blue.mp3
+<f+++++++++ The Black Keys/Turn Blue/04 Fever.mp3
+<f+++++++++ The Black Keys/Turn Blue/05 Year in Review.mp3
+<f+++++++++ The Black Keys/Turn Blue/06 Bullet in the Brain.mp3
+<f+++++++++ The Black Keys/Turn Blue/07 It's Up to You Now.mp3
+<f+++++++++ The Black Keys/Turn Blue/08 Waiting on Words.mp3
+<f+++++++++ The Black Keys/Turn Blue/09 10 Lovers.mp3
+<f+++++++++ The Black Keys/Turn Blue/10 In Our Prime.mp3
+<f+++++++++ The Black Keys/Turn Blue/11 Gotta Get Away.mp3
+cd+++++++++ The Dø/
+cd+++++++++ The Dø/Shake Shook Shaken/
+<f+++++++++ The Dø/Shake Shook Shaken/01 Keep Your Lips Sealed.mp3
+<f+++++++++ The Dø/Shake Shook Shaken/02 Trustful Hands.mp3
+<f+++++++++ The Dø/Shake Shook Shaken/03 Miracles (Back in Time).mp3
+<f+++++++++ The Dø/Shake Shook Shaken/04 Sparks.mp3
+<f+++++++++ The Dø/Shake Shook Shaken/05 Going Through Walls.mp3
+<f+++++++++ The Dø/Shake Shook Shaken/06 Despair_ Hangover & Ecstasy.mp3
+<f+++++++++ The Dø/Shake Shook Shaken/07 Anita No!.mp3
+<f+++++++++ The Dø/Shake Shook Shaken/08 A Mess Like This.mp3
+<f+++++++++ The Dø/Shake Shook Shaken/09 Lick My Wounds.mp3
+<f+++++++++ The Dø/Shake Shook Shaken/10 Opposite Ways.mp3
+<f+++++++++ The Dø/Shake Shook Shaken/11 Nature Will Remain.mp3
+<f+++++++++ The Dø/Shake Shook Shaken/12 Omen.mp3
+cd+++++++++ The Killers/
+cd+++++++++ The Killers/Battle Born/
+<f+++++++++ The Killers/Battle Born/00 Miss Atomic Bomb.mp3
+cd+++++++++ The Killers/Day And Age/
+<f+++++++++ The Killers/Day And Age/01 Human.mp3
+<f+++++++++ The Killers/Day And Age/03 Spaceman.mp3
+cd+++++++++ The Killers/Hot Fuss/
+<f+++++++++ The Killers/Hot Fuss/00 Jenny was a friend of mine.mp3
+<f+++++++++ The Killers/Hot Fuss/02 Mr Brightside.mp3
+cd+++++++++ The Killers/Sam's Town/
+<f+++++++++ The Killers/Sam's Town/03 When You Were Young.mp3
+cd+++++++++ The Kooks/
+cd+++++++++ The Kooks/Inside In_Inside Out/
+<f+++++++++ The Kooks/Inside In_Inside Out/01 Seaside.mp3
+<f+++++++++ The Kooks/Inside In_Inside Out/02 See the World.mp3
+<f+++++++++ The Kooks/Inside In_Inside Out/03 Sofa Song.mp3
+<f+++++++++ The Kooks/Inside In_Inside Out/04 Eddie's Gun.mp3
+<f+++++++++ The Kooks/Inside In_Inside Out/05 Ooh La.mp3
+<f+++++++++ The Kooks/Inside In_Inside Out/06 You Don't Love Me.mp3
+<f+++++++++ The Kooks/Inside In_Inside Out/07 She Moves in Her Own Way.mp3
+<f+++++++++ The Kooks/Inside In_Inside Out/08 Matchbox.mp3
+<f+++++++++ The Kooks/Inside In_Inside Out/09 Naive.mp3
+<f+++++++++ The Kooks/Inside In_Inside Out/10 I Want You.mp3
+<f+++++++++ The Kooks/Inside In_Inside Out/11 If Only.mp3
+<f+++++++++ The Kooks/Inside In_Inside Out/12 Jackie Big Tits.mp3
+<f+++++++++ The Kooks/Inside In_Inside Out/13 Time Awaits.mp3
+<f+++++++++ The Kooks/Inside In_Inside Out/14 Got No Love.mp3
+cd+++++++++ The Kooks/Too Much Is Not Enough/
+<f+++++++++ The Kooks/Too Much Is Not Enough/01 Indigo Lights.mp3
+<f+++++++++ The Kooks/Too Much Is Not Enough/02 Higher Ground.mp3
+<f+++++++++ The Kooks/Too Much Is Not Enough/03 In Love.mp3
+<f+++++++++ The Kooks/Too Much Is Not Enough/04 Salvation in Time.mp3
+<f+++++++++ The Kooks/Too Much Is Not Enough/05 A Turbulence Beat.mp3
+<f+++++++++ The Kooks/Too Much Is Not Enough/06 The Prisoner.mp3
+<f+++++++++ The Kooks/Too Much Is Not Enough/07 Move On.mp3
+<f+++++++++ The Kooks/Too Much Is Not Enough/08 Life in the Middle.mp3
+<f+++++++++ The Kooks/Too Much Is Not Enough/09 Bruce Emms.mp3
+<f+++++++++ The Kooks/Too Much Is Not Enough/10 Things That Are Good.mp3
+<f+++++++++ The Kooks/Too Much Is Not Enough/11 Too Much of Nothing.mp3
+<f+++++++++ The Kooks/Too Much Is Not Enough/12 Regrets.mp3
+cd+++++++++ The Last Shadow Puppets/
+cd+++++++++ The Last Shadow Puppets/Everything You've Come to Expe/
+<f+++++++++ The Last Shadow Puppets/Everything You've Come to Expe/01 Aviation.mp3
+<f+++++++++ The Last Shadow Puppets/Everything You've Come to Expe/02 Miracle Aligner.mp3
+<f+++++++++ The Last Shadow Puppets/Everything You've Come to Expe/03 Dracula Teeth.mp3
+<f+++++++++ The Last Shadow Puppets/Everything You've Come to Expe/04 Everything You've Come to Expe.mp3
+<f+++++++++ The Last Shadow Puppets/Everything You've Come to Expe/05 The Element of Surprise.mp3
+<f+++++++++ The Last Shadow Puppets/Everything You've Come to Expe/06 Bad Habits.mp3
+<f+++++++++ The Last Shadow Puppets/Everything You've Come to Expe/07 Sweet Dreams_ TN.mp3
+<f+++++++++ The Last Shadow Puppets/Everything You've Come to Expe/08 Used to Be My Girl.mp3
+<f+++++++++ The Last Shadow Puppets/Everything You've Come to Expe/09 She Does the Woods.mp3
+<f+++++++++ The Last Shadow Puppets/Everything You've Come to Expe/10 Pattern.mp3
+<f+++++++++ The Last Shadow Puppets/Everything You've Come to Expe/11 The Dream Synopsis.mp3
+<f+++++++++ The Last Shadow Puppets/Everything You've Come to Expe/12 The Bourne Identity.mp3
+cd+++++++++ The Last Shadow Puppets/The Age of the Understatement/
+<f+++++++++ The Last Shadow Puppets/The Age of the Understatement/01 The Age of the Understatement.mp3
+<f+++++++++ The Last Shadow Puppets/The Age of the Understatement/02 Standing Next to Me.mp3
+<f+++++++++ The Last Shadow Puppets/The Age of the Understatement/03 Calm Like You.mp3
+<f+++++++++ The Last Shadow Puppets/The Age of the Understatement/04 Separate and Ever Deadly.mp3
+<f+++++++++ The Last Shadow Puppets/The Age of the Understatement/05 The Chamber.mp3
+<f+++++++++ The Last Shadow Puppets/The Age of the Understatement/06 Only the Truth.mp3
+<f+++++++++ The Last Shadow Puppets/The Age of the Understatement/07 My Mistakes Were Made for You.mp3
+<f+++++++++ The Last Shadow Puppets/The Age of the Understatement/08 Black Plant.mp3
+<f+++++++++ The Last Shadow Puppets/The Age of the Understatement/09 I Don't Like You Anymore.mp3
+<f+++++++++ The Last Shadow Puppets/The Age of the Understatement/10 In My Room.mp3
+<f+++++++++ The Last Shadow Puppets/The Age of the Understatement/11 The Meeting Place.mp3
+<f+++++++++ The Last Shadow Puppets/The Age of the Understatement/12 Time Has Come Again.mp3
+cd+++++++++ The Libertines/
+cd+++++++++ The Libertines/Anthems for Doomed Youth/
+<f+++++++++ The Libertines/Anthems for Doomed Youth/01 Barbarians.mp3
+<f+++++++++ The Libertines/Anthems for Doomed Youth/02 Gunga Din.mp3
+<f+++++++++ The Libertines/Anthems for Doomed Youth/03 Fame and Fortune.mp3
+<f+++++++++ The Libertines/Anthems for Doomed Youth/04 Anthem for Doomed Youth.mp3
+<f+++++++++ The Libertines/Anthems for Doomed Youth/05 You're My Waterloo.mp3
+<f+++++++++ The Libertines/Anthems for Doomed Youth/06 Belly of the Beast.mp3
+<f+++++++++ The Libertines/Anthems for Doomed Youth/07 Iceman.mp3
+<f+++++++++ The Libertines/Anthems for Doomed Youth/08 Heart of the Matter.mp3
+<f+++++++++ The Libertines/Anthems for Doomed Youth/09 Fury of Chonburi.mp3
+<f+++++++++ The Libertines/Anthems for Doomed Youth/10 The Milkman's Horse.mp3
+<f+++++++++ The Libertines/Anthems for Doomed Youth/11 Glasgow Coma Scale Blues.mp3
+<f+++++++++ The Libertines/Anthems for Doomed Youth/12 Dead for Love.mp3
+<f+++++++++ The Libertines/Anthems for Doomed Youth/13 Love on the Dole.mp3
+<f+++++++++ The Libertines/Anthems for Doomed Youth/14 Bucket Shop.mp3
+<f+++++++++ The Libertines/Anthems for Doomed Youth/15 Lust of the Libertines.mp3
+<f+++++++++ The Libertines/Anthems for Doomed Youth/16 7 Deadly Sins.mp3
+cd+++++++++ The Naked And Famous/
+cd+++++++++ The Naked And Famous/In Rolling Waves/
+<f+++++++++ The Naked And Famous/In Rolling Waves/00 Heart Like Ours.mp3
+<f+++++++++ The Naked And Famous/In Rolling Waves/00 Young Blood.mp3
+cd+++++++++ The National/
+cd+++++++++ The National/Boxer/
+<f+++++++++ The National/Boxer/00 Fake Empire.mp3
+cd+++++++++ The National/Cherry Tree/
+<f+++++++++ The National/Cherry Tree/00 About Today.mp3
+cd+++++++++ The National/Trouble Will Find Me/
+<f+++++++++ The National/Trouble Will Find Me/00 I Need My Girl.mp3
+cd+++++++++ The Neighbourhood/
+cd+++++++++ The Neighbourhood/I Love You/
+<f+++++++++ The Neighbourhood/I Love You/00 Afraid.mp3
+<f+++++++++ The Neighbourhood/I Love You/00 Flawless.mp3
+<f+++++++++ The Neighbourhood/I Love You/00 Say My Name.mp3
+<f+++++++++ The Neighbourhood/I Love You/00 Staying Up.mp3
+<f+++++++++ The Neighbourhood/I Love You/00 Sweater Weather.mp3
+cd+++++++++ The Neighbourhood/The Neigbourhood/
+cd+++++++++ The Neighbourhood/The Neigbourhood/The Neighbourhood - The Neighbourhood/
+<f+++++++++ The Neighbourhood/The Neigbourhood/The Neighbourhood - The Neighbourhood/1 - The Neighbourhood - Flowers.mp3
+<f+++++++++ The Neighbourhood/The Neigbourhood/The Neighbourhood - The Neighbourhood/10 - The Neighbourhood - Reflections.mp3
+<f+++++++++ The Neighbourhood/The Neigbourhood/The Neighbourhood - The Neighbourhood/11 - The Neighbourhood - Too Serious.mp3
+<f+++++++++ The Neighbourhood/The Neigbourhood/The Neighbourhood - The Neighbourhood/12 - The Neighbourhood - Stuck with Me.mp3
+<f+++++++++ The Neighbourhood/The Neigbourhood/The Neighbourhood - The Neighbourhood/2 - The Neighbourhood - Scary Love.mp3
+<f+++++++++ The Neighbourhood/The Neigbourhood/The Neighbourhood - The Neighbourhood/3 - The Neighbourhood - Nervous.mp3
+<f+++++++++ The Neighbourhood/The Neigbourhood/The Neighbourhood - The Neighbourhood/4 - The Neighbourhood - Void.mp3
+<f+++++++++ The Neighbourhood/The Neigbourhood/The Neighbourhood - The Neighbourhood/5 - The Neighbourhood - Softcore.mp3
+<f+++++++++ The Neighbourhood/The Neigbourhood/The Neighbourhood - The Neighbourhood/6 - The Neighbourhood - Blue.mp3
+<f+++++++++ The Neighbourhood/The Neigbourhood/The Neighbourhood - The Neighbourhood/7 - The Neighbourhood - Sadderdaze.mp3
+<f+++++++++ The Neighbourhood/The Neigbourhood/The Neighbourhood - The Neighbourhood/8 - The Neighbourhood - Revenge.mp3
+<f+++++++++ The Neighbourhood/The Neigbourhood/The Neighbourhood - The Neighbourhood/9 - The Neighbourhood - You Get Me So High.mp3
+<f+++++++++ The Neighbourhood/The Neigbourhood/The Neighbourhood - The Neighbourhood/Cover.jpg
+cd+++++++++ The Neighbourhood/The Neighbourhood/
+<f+++++++++ The Neighbourhood/The Neighbourhood/01 Flowers.mp3
+<f+++++++++ The Neighbourhood/The Neighbourhood/02 Scary Love.mp3
+<f+++++++++ The Neighbourhood/The Neighbourhood/03 Nervous.mp3
+<f+++++++++ The Neighbourhood/The Neighbourhood/04 Void.mp3
+<f+++++++++ The Neighbourhood/The Neighbourhood/05 Softcore.mp3
+<f+++++++++ The Neighbourhood/The Neighbourhood/06 Blue.mp3
+<f+++++++++ The Neighbourhood/The Neighbourhood/07 Sadderdaze.mp3
+<f+++++++++ The Neighbourhood/The Neighbourhood/08 Revenge.mp3
+<f+++++++++ The Neighbourhood/The Neighbourhood/09 You Get Me So High.mp3
+<f+++++++++ The Neighbourhood/The Neighbourhood/10 Reflections.mp3
+<f+++++++++ The Neighbourhood/The Neighbourhood/11 Too Serious.mp3
+<f+++++++++ The Neighbourhood/The Neighbourhood/12 Stuck with Me.mp3
+cd+++++++++ The Pixies/
+<f+++++++++ The Pixies/00 Where is my Mind_1487546532550.mp3
+cd+++++++++ The Rolling Stones/
+cd+++++++++ The Rolling Stones/Forty Licks (1 of 2)/
+<f+++++++++ The Rolling Stones/Forty Licks (1 of 2)/13 She's a Rainbow.mp3
+cd+++++++++ The Smiths/
+cd+++++++++ The Smiths/The Queen Is Dead/
+<f+++++++++ The Smiths/The Queen Is Dead/06 Bigmouth Strikes Again.mp3
+cd+++++++++ The Strokes/
+cd+++++++++ The Strokes/First Impressions of Earth/
+<f+++++++++ The Strokes/First Impressions of Earth/01 You Only Live Once.mp3
+<f+++++++++ The Strokes/First Impressions of Earth/02 Juicebox.mp3
+<f+++++++++ The Strokes/First Impressions of Earth/03 Heart in a Cage.mp3
+<f+++++++++ The Strokes/First Impressions of Earth/04 Razorblade.mp3
+<f+++++++++ The Strokes/First Impressions of Earth/05 On the Other Side.mp3
+<f+++++++++ The Strokes/First Impressions of Earth/06 Vision of Division.mp3
+<f+++++++++ The Strokes/First Impressions of Earth/07 Ask Me Anything.mp3
+<f+++++++++ The Strokes/First Impressions of Earth/08 Electricityscape.mp3
+<f+++++++++ The Strokes/First Impressions of Earth/09 Killing Lies.mp3
+<f+++++++++ The Strokes/First Impressions of Earth/10 Fear of Sleep.mp3
+<f+++++++++ The Strokes/First Impressions of Earth/11 15 Minutes.mp3
+<f+++++++++ The Strokes/First Impressions of Earth/12 Ize of the World.mp3
+<f+++++++++ The Strokes/First Impressions of Earth/13 Evening Sun.mp3
+<f+++++++++ The Strokes/First Impressions of Earth/14 Red Light.mp3
+cd+++++++++ The Strokes/Future Present Past/
+<f+++++++++ The Strokes/Future Present Past/01 Drag Queen.mp3
+<f+++++++++ The Strokes/Future Present Past/02 OBLIVIUS.mp3
+<f+++++++++ The Strokes/Future Present Past/03 Threat of Joy.mp3
+<f+++++++++ The Strokes/Future Present Past/04 OBLIVIUS - Remix.mp3
+cd+++++++++ The Strokes/Is This It/
+<f+++++++++ The Strokes/Is This It/01 Is This It.mp3
+<f+++++++++ The Strokes/Is This It/02 The Modern Age.mp3
+<f+++++++++ The Strokes/Is This It/03 Soma.mp3
+<f+++++++++ The Strokes/Is This It/04 Barely Legal.mp3
+<f+++++++++ The Strokes/Is This It/05 Someday.mp3
+<f+++++++++ The Strokes/Is This It/06 Alone_ Together.mp3
+<f+++++++++ The Strokes/Is This It/07 Last Nite.mp3
+<f+++++++++ The Strokes/Is This It/08 Hard To Explain.mp3
+<f+++++++++ The Strokes/Is This It/09 New York City Cops.mp3
+<f+++++++++ The Strokes/Is This It/10 Trying Your Luck.mp3
+<f+++++++++ The Strokes/Is This It/11 Take It Or Leave It.mp3
+cd+++++++++ The Strokes/Room on Fire/
+<f+++++++++ The Strokes/Room on Fire/01 What Ever Happened.mp3
+<f+++++++++ The Strokes/Room on Fire/02 Reptilia.mp3
+<f+++++++++ The Strokes/Room on Fire/03 Automatic Stop.mp3
+<f+++++++++ The Strokes/Room on Fire/04 12 - 51.mp3
+<f+++++++++ The Strokes/Room on Fire/05 You Talk Way Too Much.mp3
+<f+++++++++ The Strokes/Room on Fire/06 Between Love & Hate.mp3
+<f+++++++++ The Strokes/Room on Fire/07 Meet Me In The Bathroom.mp3
+<f+++++++++ The Strokes/Room on Fire/08 Under Control.mp3
+<f+++++++++ The Strokes/Room on Fire/09 The Way It Is.mp3
+<f+++++++++ The Strokes/Room on Fire/10 The End Has No End.mp3
+<f+++++++++ The Strokes/Room on Fire/11 I Can't Win.mp3
+cd+++++++++ The xx/
+cd+++++++++ The xx/Coexist/
+<f+++++++++ The xx/Coexist/00 Angels.mp3
+cd+++++++++ Therapie TAXI/
+cd+++++++++ Therapie TAXI/Hit Sale/
+<f+++++++++ Therapie TAXI/Hit Sale/01 Hit Sale (feat_ Roméo Elvis).mp3
+<f+++++++++ Therapie TAXI/Hit Sale/08 Salop(e).mp3
+cd+++++++++ Thirteen Senses/
+cd+++++++++ Thirteen Senses/Crystal Sounds/
+<f+++++++++ Thirteen Senses/Crystal Sounds/00 Crystal Sounds.mp3
+<f+++++++++ Thirteen Senses/Crystal Sounds/00 Home.mp3
+<f+++++++++ Thirteen Senses/Crystal Sounds/02 The Loneliest Star.mp3
+cd+++++++++ Thirteen Senses/The Invitation/
+<f+++++++++ Thirteen Senses/The Invitation/01 Into The Fire.mp3
+<f+++++++++ Thirteen Senses/The Invitation/01 Thru The Glass.mp3
+<f+++++++++ Thirteen Senses/The Invitation/04 Follow Me.mp3
+<f+++++++++ Thirteen Senses/The Invitation/05 The Salt Wound Routine.mp3
+<f+++++++++ Thirteen Senses/The Invitation/06 Saving.mp3
+<f+++++++++ Thirteen Senses/The Invitation/08 Last Forever.mp3
+cd+++++++++ Tove Lo/
+cd+++++++++ Tove Lo/Queen Of The Clouds/
+<f+++++++++ Tove Lo/Queen Of The Clouds/00 Not On Drugs.mp3
+<f+++++++++ Tove Lo/Queen Of The Clouds/00 Stay High.mp3
+<f+++++++++ Tove Lo/Queen Of The Clouds/00 Talking Bodies.mp3
+<f+++++++++ Tove Lo/Queen Of The Clouds/00 Thousand Miles.mp3
+cd+++++++++ Twenty One Pilots/
+<f+++++++++ Twenty One Pilots/00 Air Catcher.mp3
+<f+++++++++ Twenty One Pilots/00 Friend Please.mp3
+<f+++++++++ Twenty One Pilots/00 Glowing Eyes.mp3
+<f+++++++++ Twenty One Pilots/00 Implicit Demand For Proof.mp3
+<f+++++++++ Twenty One Pilots/00 Johnny Boy.mp3
+<f+++++++++ Twenty One Pilots/00 The Pantaloon.mp3
+cd+++++++++ Twenty One Pilots/Blurryface/
+<f+++++++++ Twenty One Pilots/Blurryface/00 Doubt.mp3
+<f+++++++++ Twenty One Pilots/Blurryface/00 Lane Boy.mp3
+<f+++++++++ Twenty One Pilots/Blurryface/00 Message Man.mp3
+<f+++++++++ Twenty One Pilots/Blurryface/00 Not Today.mp3
+<f+++++++++ Twenty One Pilots/Blurryface/00 Polarize.mp3
+<f+++++++++ Twenty One Pilots/Blurryface/00 Ride.mp3
+<f+++++++++ Twenty One Pilots/Blurryface/00 Stressed Out.mp3
+<f+++++++++ Twenty One Pilots/Blurryface/00 The Judge.mp3
+cd+++++++++ Twenty One Pilots/Fall Away/
+<f+++++++++ Twenty One Pilots/Fall Away/00 Fall Away.mp3
+<f+++++++++ Twenty One Pilots/Fall Away/00 Isle Of Flightless Birds.mp3
+<f+++++++++ Twenty One Pilots/Fall Away/00 Kitchen Sink.mp3
+<f+++++++++ Twenty One Pilots/Fall Away/00 Time To Say Goodbye.mp3
+cd+++++++++ Twenty One Pilots/Vessel/
+<f+++++++++ Twenty One Pilots/Vessel/00 Can't Help Falling In Love.mp3
+<f+++++++++ Twenty One Pilots/Vessel/00 Car Radio.mp3
+<f+++++++++ Twenty One Pilots/Vessel/00 Fake You Out.mp3
+<f+++++++++ Twenty One Pilots/Vessel/00 Guns for Hands.mp3
+<f+++++++++ Twenty One Pilots/Vessel/00 Holding On To You.mp3
+<f+++++++++ Twenty One Pilots/Vessel/00 House Of Gold.mp3
+<f+++++++++ Twenty One Pilots/Vessel/00 Migraine.mp3
+<f+++++++++ Twenty One Pilots/Vessel/00 Screen.mp3
+<f+++++++++ Twenty One Pilots/Vessel/00 Semi-Automatic.mp3
+<f+++++++++ Twenty One Pilots/Vessel/00 The Run And Go.mp3
+<f+++++++++ Twenty One Pilots/Vessel/00 Truce.mp3
+<f+++++++++ Twenty One Pilots/Vessel/01 Lovely.mp3
+<f+++++++++ Twenty One Pilots/Vessel/11 Trees.mp3
+cd+++++++++ Tyler Joseph/
+cd+++++++++ Tyler Joseph/No Phun Intended/
+<f+++++++++ Tyler Joseph/No Phun Intended/00 Blasphemy.mp3
+<f+++++++++ Tyler Joseph/No Phun Intended/00 Drown.mp3
+<f+++++++++ Tyler Joseph/No Phun Intended/00 Taken By Sleep.mp3
+cd+++++++++ Vald/
+cd+++++++++ Vald/NQNT 2/
+<f+++++++++ Vald/NQNT 2/02 Bonjour.mp3
+<f+++++++++ Vald/NQNT 2/05 Cartes Sous L'Coude.mp3
+<f+++++++++ Vald/NQNT 2/06 Urbanisme.mp3
+<f+++++++++ Vald/NQNT 2/07 Selfie.mp3
+<f+++++++++ Vald/NQNT 2/10 Promesse.mp3
+cd+++++++++ Vald/NQNT/
+<f+++++++++ Vald/NQNT/06 Flowjob.mp3
+<f+++++++++ Vald/NQNT/09 Aulnay-Sous-Bois.mp3
+<f+++++++++ Vald/NQNT/10 Elle Me Regarde.mp3
+cd+++++++++ Vampire Weekend/
+cd+++++++++ Vampire Weekend/Modern Vampires of the City/
+<f+++++++++ Vampire Weekend/Modern Vampires of the City/00 Step.mp3
+cd+++++++++ Vance Joy/
+<f+++++++++ Vance Joy/00 Riptide.mp3
+cd+++++++++ WEKEED/
+<f+++++++++ WEKEED/00 Wild Child.mp3
+cd+++++++++ What So Not/
+<f+++++++++ What So Not/00 High You Are.mp3
+cd+++++++++ Wild Beasts/
+<f+++++++++ Wild Beasts/00 A Simple Beautiful Truth.mp3
+cd+++++++++ Wiz Khalifa/
+<f+++++++++ Wiz Khalifa/00 Young_ Wild And Free.mp3
+cd+++++++++ Woodkid/
+cd+++++++++ Woodkid/The Golden Age/
+<f+++++++++ Woodkid/The Golden Age/00 Never Let You Down.mp3
+cd+++++++++ Yahtzel/
+<f+++++++++ Yahtzel/00 High With Me.mp3
+cd+++++++++ Yodelice/
+cd+++++++++ Yodelice/Sunday With A Flu/
+<f+++++++++ Yodelice/Sunday With A Flu/00 Sunday with a Flu.mp3
+cd+++++++++ Young The Giant/
+<f+++++++++ Young The Giant/00 Crystallized.mp3
+<f+++++++++ Young The Giant/00 Mind Over Matter.mp3

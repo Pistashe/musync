@@ -130,6 +130,7 @@ class Musync(App):
             cmd = shlex.split(cmd)
             popen_and_call(self._update_sync_state, cmd)
             self.file_chooser_source._trigger_update()
+            Clock.schedule_once(self.file_chooser_source._trigger_update, 1)
 
     def update_view(self, dt=None, sync_state=None):
         self._update_view_target()
