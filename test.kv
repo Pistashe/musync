@@ -1,6 +1,7 @@
 #:kivy 1.0
 #:import ICONS_PATH local_config.ICONS_PATH
 
+
 [FileListEntry@FloatLayout+TreeViewNode]:
     locked: False
     entries: []
@@ -28,12 +29,12 @@
             halign: 'left'
             shorten: True
             text: ctx.name
+        Image:
+            source: "{}{}-16.png".format(ICONS_PATH, ctx.icon)
+            size: 16, 16
+            size_hint_x: None
         Label:
             text_size: self.width, None
             size_hint_x: None
             halign: 'right'
             text: '{}'.format(ctx.get_nice_size())
-            Image:
-                source: "{}{}-16.png".format(ICONS_PATH, ctx.icon)
-                x: self.parent.x
-                y: self.parent.y - 1.2*self.parent.height

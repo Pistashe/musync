@@ -18,6 +18,10 @@ for folder in ["folder1", "folder2"]:
         with open(path, "w") as f:
             f.write("okkk")
 
+pch_path = "/home/sgiorno/Documents/PUNCH"
+for file_ in os.listdir(pch_path):
+    copyfile("{}/{}".format(pch_path, file_), "{}/{}".format(source, file_))
+
 for folder in ["folder1"]:
     os.mkdir(target + "/" + folder)
     os.mkdir(target + "/ok")

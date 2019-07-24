@@ -40,7 +40,7 @@ def popen_and_call(on_exit, popen_args):
         proc = sp.Popen(popen_args, stdout=sp.PIPE, stderr=sp.PIPE)
         proc.wait()
         text = proc.communicate()[0].decode("utf-8")
-        on_exit(text)
+        on_exit(sync_state=text)
         return
     thread = threading.Thread(target=run_in_thread, args=(on_exit, popen_args))
     thread.start()

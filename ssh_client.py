@@ -8,10 +8,15 @@ class SSHClient():
         self._ip = ip
         while not _is_valid_ip(self._ip):
             self._ip = input("IP address: ")
+
         self._port = port
         while not _is_valid_port(self._port):
             self._port = input("Port: ")
-        self._pwd = getpass.getpass() if pwd is None else pwd
+
+        if pwd == -1:
+            self._pwd = None
+        else:
+            self._pwd = getpass.getpass() if pwd is None else pwd
 
         self._client = None
 
